@@ -1,0 +1,1471 @@
+Gender,Age,BusinessTravel,Department,DistanceFromHome,Education,EnvironmentSatisfaction,HourlyRate,JobSatisfaction,MaritalStatus,OverTime,PercentSalaryHike,TotalWorkingYears,WorkLifeBalance,YearsAtCompany,MonthlyIncome
+Female,41,Travel_Rarely,Sales,1,College,Medium,94,Very High,Single,Yes,11,8,Bad,6,5993
+Male,49,Travel_Frequently,Research & Development,8,Highschool,High,61,Medium,Married,No,23,10,Better,10,5130
+Male,37,Travel_Rarely,Research & Development,2,College,Very High,92,High,Single,Yes,15,7,Better,0,2090
+Female,33,Travel_Frequently,Research & Development,3,Master,Very High,56,High,Married,Yes,11,8,Better,8,2909
+Male,27,Travel_Rarely,Research & Development,2,Highschool,Low,40,Medium,Married,No,12,6,Better,2,3468
+Male,32,Travel_Frequently,Research & Development,2,College,Very High,79,Very High,Single,No,13,8,Good,7,3068
+Female,59,Travel_Rarely,Research & Development,3,Bachelor,High,81,Low,Married,Yes,20,12,Good,1,2670
+Male,30,Travel_Rarely,Research & Development,24,Highschool,Very High,67,High,Divorced,No,22,1,Better,1,2693
+Male,38,Travel_Frequently,Research & Development,23,Bachelor,Very High,44,High,Single,No,21,10,Better,9,9526
+Male,36,Travel_Rarely,Research & Development,27,Bachelor,High,94,High,Married,No,13,17,Good,7,5237
+Male,35,Travel_Rarely,Research & Development,16,Bachelor,Low,84,Medium,Married,No,13,6,Better,5,2426
+Female,29,Travel_Rarely,Research & Development,15,College,Very High,49,High,Single,Yes,12,10,Better,9,4193
+Male,31,Travel_Rarely,Research & Development,26,Highschool,Low,31,High,Divorced,No,17,5,Good,5,2911
+Male,34,Travel_Rarely,Research & Development,19,College,Medium,93,Very High,Divorced,No,11,3,Better,2,2661
+Male,28,Travel_Rarely,Research & Development,24,Bachelor,High,50,High,Single,Yes,14,6,Better,4,2028
+Female,29,Travel_Rarely,Research & Development,21,Master,Medium,51,Low,Divorced,No,11,10,Better,10,9980
+Male,32,Travel_Rarely,Research & Development,5,College,Low,80,Medium,Divorced,Yes,12,7,Good,6,3298
+Male,22,Non-Travel,Research & Development,16,College,Very High,96,Very High,Divorced,Yes,13,1,Good,1,2935
+Female,53,Travel_Rarely,Sales,2,Master,Low,78,Very High,Married,No,16,31,Better,25,15427
+Male,38,Travel_Rarely,Research & Development,2,Bachelor,Very High,45,Very High,Single,Yes,11,6,Better,3,3944
+Female,24,Non-Travel,Research & Development,11,College,Low,96,High,Divorced,No,18,5,Good,4,4011
+Male,36,Travel_Rarely,Sales,9,Master,High,82,Low,Single,No,23,10,Better,5,3407
+Female,34,Travel_Rarely,Research & Development,7,Master,Low,53,Medium,Single,No,11,13,Better,12,11994
+Male,21,Travel_Rarely,Research & Development,15,College,High,96,Very High,Single,No,14,0,Better,0,1232
+Male,34,Travel_Rarely,Research & Development,6,Highschool,Medium,83,Low,Single,No,11,8,Better,4,2960
+Female,53,Travel_Rarely,Research & Development,5,Bachelor,High,58,High,Divorced,No,11,26,Good,14,19094
+Female,32,Travel_Frequently,Research & Development,16,Highschool,Medium,72,Low,Single,Yes,22,10,Better,10,3919
+Male,42,Travel_Rarely,Sales,8,Master,High,48,Medium,Married,No,11,10,Better,9,6825
+Female,44,Travel_Rarely,Research & Development,7,Master,Low,42,Very High,Married,No,14,24,Better,22,10248
+Female,46,Travel_Rarely,Sales,2,Master,Medium,83,Low,Single,No,12,22,Good,2,18947
+Male,33,Travel_Rarely,Research & Development,2,Bachelor,High,78,Very High,Single,No,11,7,Better,1,2496
+Male,44,Travel_Rarely,Research & Development,10,Master,Very High,41,Very High,Married,Yes,13,9,Best,4,6465
+Male,30,Travel_Rarely,Research & Development,9,College,Very High,83,High,Single,No,13,10,Better,10,2206
+Male,39,Travel_Rarely,Sales,5,Bachelor,Very High,56,Very High,Married,No,14,19,Best,1,2086
+Male,24,Travel_Rarely,Research & Development,1,Bachelor,Medium,61,Very High,Married,Yes,16,6,Good,2,2293
+Female,43,Travel_Rarely,Research & Development,2,College,Very High,72,High,Divorced,No,12,6,Good,5,2645
+Male,50,Travel_Rarely,Sales,3,College,Low,86,High,Married,Yes,14,3,Better,3,2683
+Female,35,Travel_Rarely,Sales,2,Bachelor,Very High,97,Very High,Married,No,13,2,Better,2,2014
+Female,36,Travel_Rarely,Research & Development,5,Master,Medium,82,Low,Married,Yes,14,6,Best,1,3419
+Female,33,Travel_Frequently,Sales,1,Bachelor,High,42,Low,Married,No,19,10,Better,5,5376
+Male,35,Travel_Rarely,Research & Development,4,College,High,75,Very High,Divorced,No,12,1,Better,1,1951
+Female,27,Travel_Rarely,Research & Development,2,Master,Very High,33,Low,Divorced,No,13,1,Better,1,2341
+Male,26,Travel_Rarely,Research & Development,25,Bachelor,Low,48,High,Single,No,12,1,Good,1,2293
+Male,27,Travel_Frequently,Sales,8,Bachelor,Very High,37,High,Single,No,15,9,Better,9,8726
+Female,30,Travel_Frequently,Research & Development,1,College,High,58,Very High,Single,No,23,12,Better,12,4011
+Female,41,Travel_Rarely,Research & Development,12,Bachelor,Medium,49,High,Married,No,12,23,Better,22,19545
+Male,34,Non-Travel,Sales,23,Master,Medium,72,High,Single,No,20,10,Better,9,4568
+Male,37,Travel_Rarely,Research & Development,19,College,Medium,73,Medium,Married,No,21,8,Better,1,3022
+Male,46,Travel_Frequently,Sales,5,Master,Low,98,Very High,Single,Yes,21,14,Better,9,5772
+Male,35,Travel_Rarely,Research & Development,8,Highschool,Very High,36,Very High,Married,No,19,1,Better,1,2269
+Male,48,Travel_Rarely,Research & Development,1,College,Low,98,High,Single,Yes,13,23,Better,1,5381
+Male,28,Travel_Rarely,Research & Development,5,Master,High,50,High,Single,Yes,13,2,Good,2,3441
+Female,44,Travel_Rarely,Sales,1,Doctor,Medium,75,Low,Divorced,Yes,21,9,Good,4,5454
+Male,35,Non-Travel,Research & Development,11,College,High,79,Low,Married,Yes,13,10,Better,4,9884
+Female,26,Travel_Rarely,Sales,23,Bachelor,High,47,Very High,Married,Yes,19,5,Good,2,4157
+Female,33,Travel_Frequently,Research & Development,1,College,Low,98,Very High,Single,Yes,12,15,Better,15,13458
+Male,35,Travel_Frequently,Sales,18,Doctor,Medium,71,Low,Married,No,22,9,Good,9,9069
+Female,35,Travel_Rarely,Research & Development,23,Master,High,30,Low,Married,Yes,15,4,Better,2,4014
+Male,31,Travel_Rarely,Research & Development,7,Master,Very High,48,Very High,Divorced,No,22,10,Good,7,5915
+Male,37,Travel_Rarely,Research & Development,1,Master,Low,51,High,Divorced,No,18,7,Best,7,5993
+Male,32,Travel_Rarely,Research & Development,1,Bachelor,Low,33,Very High,Married,Yes,22,9,Better,9,6162
+Female,38,Travel_Frequently,Research & Development,29,Doctor,Very High,50,Very High,Single,No,11,10,Better,10,2406
+Female,50,Travel_Rarely,Research & Development,7,College,Medium,43,High,Divorced,Yes,12,29,Good,27,18740
+Female,59,Travel_Rarely,Sales,25,Bachelor,Low,99,Low,Single,No,11,28,Good,21,7637
+Female,36,Travel_Rarely,Research & Development,8,Bachelor,High,59,High,Divorced,No,13,17,Better,17,10096
+Female,55,Travel_Rarely,Research & Development,8,Bachelor,Very High,33,High,Divorced,Yes,14,21,Better,5,14756
+Male,36,Travel_Frequently,Research & Development,11,Bachelor,Medium,95,Medium,Single,No,13,6,Better,6,6499
+Male,45,Travel_Rarely,Research & Development,7,Bachelor,Medium,59,Low,Divorced,No,17,25,Better,1,9724
+Male,35,Travel_Frequently,Research & Development,1,Bachelor,Medium,79,Low,Married,No,13,5,Good,3,2194
+Male,36,Travel_Rarely,Research & Development,9,Bachelor,Very High,79,High,Married,Yes,17,2,Good,1,3388
+Female,59,Travel_Frequently,Sales,1,Highschool,Low,57,High,Single,No,11,20,Good,4,5473
+Male,29,Travel_Rarely,Research & Development,2,Bachelor,High,76,Medium,Married,No,23,6,Better,5,2703
+Male,31,Travel_Rarely,Research & Development,1,Master,High,87,Medium,Single,No,17,1,Better,1,2501
+Male,32,Travel_Rarely,Research & Development,1,Bachelor,Medium,66,Medium,Married,No,17,10,Better,10,6220
+Female,36,Travel_Rarely,Research & Development,6,Bachelor,Medium,55,Very High,Married,No,12,5,Better,1,3038
+Female,31,Travel_Rarely,Research & Development,8,Master,High,61,Very High,Single,No,23,11,Better,11,4424
+Male,35,Travel_Rarely,Sales,1,Master,High,32,Low,Single,No,14,16,Better,15,4312
+Male,45,Travel_Rarely,Research & Development,6,Master,Very High,52,Low,Married,Yes,14,17,Best,0,13245
+Male,37,Travel_Rarely,Research & Development,7,Master,Low,30,High,Single,No,13,16,Best,5,13664
+Male,46,Travel_Rarely,Human Resources,5,College,Medium,80,Medium,Divorced,Yes,22,16,Better,4,5021
+Male,30,Travel_Rarely,Research & Development,1,Highschool,Very High,55,Very High,Married,Yes,12,10,Good,10,5126
+Male,35,Travel_Rarely,Research & Development,1,Bachelor,Medium,30,High,Single,No,18,6,Better,6,2859
+Male,55,Travel_Rarely,Sales,1,College,Low,70,Very High,Married,No,14,24,Better,1,10239
+Female,38,Non-Travel,Research & Development,6,Bachelor,Medium,79,Very High,Divorced,Yes,12,17,Better,13,5329
+Male,34,Travel_Rarely,Research & Development,1,College,Low,94,Medium,Married,No,15,5,Better,5,4325
+Male,56,Travel_Rarely,Research & Development,7,Bachelor,Very High,49,Very High,Single,No,11,37,Good,6,7260
+Male,23,Travel_Rarely,Sales,2,Highschool,High,62,Low,Divorced,No,13,3,Better,0,2322
+Male,51,Travel_Rarely,Research & Development,9,Master,Very High,96,Very High,Married,No,23,10,Better,4,2075
+Male,30,Travel_Rarely,Research & Development,2,Bachelor,High,99,Very High,Married,No,19,11,Better,11,4152
+Male,46,Travel_Rarely,Sales,9,College,High,64,Very High,Single,No,16,9,Better,9,9619
+Male,40,Travel_Frequently,Research & Development,1,Master,High,78,Medium,Married,No,22,22,Good,22,13503
+Male,51,Travel_Rarely,Sales,21,Master,High,71,Very High,Single,Yes,22,11,Bad,10,5441
+Female,30,Travel_Rarely,Sales,4,College,High,63,Medium,Divorced,Yes,12,11,Good,11,5209
+Male,46,Travel_Frequently,Research & Development,1,Bachelor,High,40,Low,Married,Yes,13,21,Good,10,10673
+Male,32,Travel_Rarely,Sales,6,Master,Medium,87,High,Single,No,16,12,Better,11,5010
+Female,54,Travel_Rarely,Research & Development,2,Master,Low,60,High,Married,No,12,16,Bad,4,13549
+Female,24,Travel_Rarely,Sales,3,College,Low,33,High,Married,No,21,4,Good,3,4999
+Male,28,Non-Travel,Sales,4,Bachelor,Medium,43,High,Married,No,15,5,Best,5,4221
+Male,58,Travel_Rarely,Sales,10,Master,Very High,37,High,Single,No,13,38,Good,37,13872
+Male,44,Non-Travel,Research & Development,23,Bachelor,Medium,67,Medium,Married,No,12,17,Best,3,2042
+Male,37,Travel_Rarely,Human Resources,6,Master,High,63,Low,Divorced,Yes,22,7,Better,3,2073
+Male,32,Travel_Rarely,Research & Development,1,Highschool,Very High,71,Low,Single,No,13,1,Better,1,2956
+Female,20,Travel_Frequently,Research & Development,6,Bachelor,Very High,66,Very High,Single,Yes,18,1,Better,1,2926
+Female,34,Travel_Rarely,Research & Development,6,Master,Low,41,High,Single,No,14,16,Better,16,4809
+Male,37,Non-Travel,Research & Development,2,College,High,100,Very High,Divorced,No,14,17,Best,1,5163
+Female,59,Non-Travel,Human Resources,2,Master,High,32,Very High,Married,No,21,30,Better,3,18844
+Female,50,Travel_Frequently,Research & Development,1,Bachelor,Low,73,Medium,Married,Yes,19,28,Good,8,18172
+Male,25,Travel_Rarely,Sales,5,Bachelor,High,46,High,Single,Yes,11,6,Better,6,5744
+Male,25,Travel_Rarely,Research & Development,7,Highschool,Very High,64,Very High,Married,No,11,2,Better,2,2889
+Female,22,Travel_Rarely,Research & Development,15,Bachelor,Medium,59,Very High,Single,No,15,1,Better,0,2871
+Female,51,Travel_Frequently,Research & Development,1,Master,Low,30,Low,Single,No,20,23,Good,13,7484
+Male,34,Travel_Frequently,Research & Development,7,Bachelor,Low,66,High,Single,Yes,24,9,Better,9,6074
+Female,54,Non-Travel,Human Resources,26,Bachelor,Very High,30,Very High,Single,Yes,12,23,Better,5,17328
+Male,24,Travel_Rarely,Research & Development,18,Highschool,Medium,52,High,Married,No,12,6,Better,5,2774
+Female,34,Travel_Rarely,Research & Development,6,Master,High,45,Medium,Divorced,No,15,12,Better,1,4505
+Male,37,Travel_Rarely,Sales,3,Bachelor,High,87,Very High,Single,No,12,12,Better,5,7428
+Female,34,Travel_Rarely,Research & Development,5,Bachelor,High,45,Low,Single,No,12,14,Better,11,11631
+Female,36,Travel_Frequently,Sales,11,College,Medium,92,Very High,Married,No,14,10,Better,9,9738
+Female,36,Travel_Rarely,Research & Development,3,College,Low,39,Very High,Divorced,No,22,7,Better,1,2835
+Male,43,Travel_Frequently,Sales,26,College,High,92,Very High,Married,Yes,12,25,Best,25,16959
+Male,30,Travel_Frequently,Research & Development,23,Bachelor,Low,96,High,Divorced,No,25,10,Good,10,2613
+Male,33,Non-Travel,Sales,22,College,High,95,Medium,Married,No,13,8,Best,7,6146
+Female,56,Travel_Rarely,Research & Development,14,Master,Medium,72,Medium,Married,Yes,18,7,Better,5,4963
+Male,51,Travel_Rarely,Research & Development,6,Bachelor,Low,51,High,Single,No,13,23,Better,20,19537
+Male,31,Travel_Rarely,Sales,6,Master,Medium,76,High,Married,Yes,18,12,Good,7,6172
+Female,26,Travel_Rarely,Research & Development,6,Bachelor,High,46,Medium,Married,No,19,5,Good,5,2368
+Female,58,Travel_Rarely,Research & Development,23,Master,Very High,94,Very High,Married,No,12,40,Good,40,10312
+Male,19,Travel_Rarely,Sales,22,Highschool,Very High,50,High,Single,Yes,19,0,Good,0,1675
+Male,22,Travel_Rarely,Research & Development,2,Highschool,High,100,Very High,Married,No,14,3,Better,2,2523
+Female,49,Travel_Rarely,Research & Development,20,Master,High,96,Low,Married,No,14,16,Good,15,6567
+Female,43,Travel_Frequently,Research & Development,28,Bachelor,Medium,72,High,Single,No,12,18,Better,3,4739
+Female,50,Travel_Frequently,Sales,12,Bachelor,High,77,Very High,Single,No,11,16,Better,2,9208
+Female,31,Travel_Rarely,Sales,20,Bachelor,Medium,71,High,Married,Yes,11,4,Better,2,4559
+Male,41,Travel_Rarely,Sales,9,Highschool,High,96,High,Divorced,Yes,13,12,Better,9,8189
+Female,26,Travel_Rarely,Human Resources,25,Highschool,High,61,High,Married,No,23,8,Better,8,2942
+Male,36,Travel_Rarely,Research & Development,6,College,Medium,84,Medium,Divorced,No,20,7,Better,3,4941
+Male,51,Travel_Frequently,Research & Development,8,Master,Low,53,Very High,Single,No,15,18,Better,4,10650
+Female,39,Travel_Rarely,Sales,4,Master,Very High,47,High,Married,No,14,17,Best,15,5902
+Male,25,Travel_Rarely,Sales,28,Bachelor,Low,41,High,Married,No,18,6,Better,2,8639
+Male,30,Travel_Rarely,Human Resources,9,Bachelor,High,48,Very High,Married,Yes,19,12,Bad,11,6347
+Female,32,Travel_Rarely,Research & Development,9,Bachelor,Low,41,Low,Single,No,22,10,Best,5,4200
+Male,45,Travel_Rarely,Research & Development,29,Bachelor,High,83,Very High,Single,No,13,9,Good,6,3452
+Female,38,Travel_Rarely,Research & Development,3,Doctor,Very High,32,High,Single,Yes,20,19,Better,3,4317
+Female,30,Travel_Rarely,Research & Development,18,Bachelor,Low,75,High,Single,No,14,5,Good,5,2632
+Male,32,Travel_Frequently,Sales,9,College,Very High,35,Very High,Divorced,No,17,9,Best,8,4668
+Female,30,Travel_Rarely,Research & Development,5,Bachelor,Very High,84,Low,Divorced,No,14,8,Better,3,3204
+Male,30,Travel_Rarely,Research & Development,2,Highschool,Medium,35,Very High,Single,No,13,6,Better,5,2720
+Male,41,Travel_Frequently,Research & Development,10,Bachelor,Very High,91,Low,Divorced,No,13,21,Good,7,17181
+Male,41,Travel_Rarely,Research & Development,9,Master,High,94,Low,Married,No,21,7,Better,5,2238
+Female,19,Travel_Rarely,Research & Development,3,Highschool,Medium,79,Medium,Single,No,14,1,Better,1,1483
+Female,40,Travel_Frequently,Research & Development,26,Bachelor,Medium,54,Medium,Divorced,No,11,20,Better,20,5605
+Male,35,Travel_Rarely,Sales,1,Doctor,High,94,Medium,Married,No,13,10,Better,10,7295
+Male,53,Travel_Rarely,Sales,6,College,Medium,34,High,Married,Yes,20,13,Bad,7,2306
+Male,45,Travel_Rarely,Research & Development,9,Bachelor,Medium,60,Medium,Divorced,No,18,20,Bad,17,2348
+Female,32,Travel_Frequently,Sales,8,Bachelor,Medium,43,Very High,Single,No,14,9,Better,9,8998
+Male,29,Non-Travel,Research & Development,1,Highschool,Very High,41,High,Married,No,13,10,Better,10,4319
+Male,51,Travel_Rarely,Research & Development,7,Master,Medium,34,High,Married,No,17,10,Better,1,6132
+Female,58,Travel_Rarely,Research & Development,9,Bachelor,Medium,75,Medium,Married,Yes,20,9,Good,1,3346
+Male,40,Travel_Rarely,Sales,4,Master,High,67,Very High,Married,No,11,15,Good,12,10855
+Female,34,Travel_Frequently,Sales,2,Master,High,75,High,Married,No,18,6,Better,4,2231
+Male,22,Travel_Rarely,Research & Development,19,Highschool,High,80,Very High,Married,No,24,2,Better,2,2323
+Male,27,Non-Travel,Research & Development,9,Bachelor,Very High,57,Medium,Divorced,No,18,6,Bad,2,2024
+Male,28,Travel_Rarely,Research & Development,21,Bachelor,High,42,Very High,Married,No,11,5,Bad,5,2713
+Male,57,Travel_Rarely,Research & Development,24,College,High,83,Very High,Divorced,Yes,16,12,Bad,5,9439
+Male,27,Non-Travel,Research & Development,3,Bachelor,High,79,High,Divorced,Yes,15,1,Good,1,2566
+Female,50,Travel_Rarely,Research & Development,11,Bachelor,High,53,Medium,Single,No,15,21,Better,5,19926
+Male,41,Travel_Rarely,Research & Development,14,Bachelor,Low,56,High,Divorced,No,12,13,Better,9,2451
+Female,30,Travel_Rarely,Sales,5,Bachelor,Medium,41,Very High,Married,No,12,12,Better,10,9419
+Female,38,Travel_Rarely,Sales,1,Master,Low,59,Very High,Single,No,22,12,Best,8,8686
+Male,32,Travel_Rarely,Research & Development,6,Doctor,High,43,High,Single,No,20,8,Better,5,3038
+Male,27,Travel_Rarely,Research & Development,17,Bachelor,High,51,Medium,Married,Yes,16,6,Good,5,3058
+Female,19,Travel_Frequently,Sales,1,Highschool,High,100,Low,Single,No,21,1,Best,0,2325
+Male,36,Travel_Frequently,Research & Development,3,College,Very High,30,Medium,Single,No,12,13,Good,8,2088
+Male,30,Non-Travel,Research & Development,9,Bachelor,High,66,Low,Divorced,No,11,12,Better,12,3072
+Female,45,Travel_Rarely,Sales,4,College,High,30,Low,Divorced,Yes,11,9,Best,5,5006
+Female,56,Travel_Rarely,Research & Development,8,Bachelor,High,67,Low,Divorced,Yes,18,19,Better,2,4257
+Male,33,Travel_Rarely,Research & Development,2,Bachelor,High,90,Very High,Single,No,14,4,Best,3,2500
+Male,19,Travel_Rarely,Research & Development,2,Bachelor,Medium,47,Very High,Single,No,22,1,Good,1,1102
+Female,46,Travel_Rarely,Sales,1,College,Medium,92,Low,Divorced,No,25,24,Better,24,10453
+Female,38,Travel_Rarely,Research & Development,9,College,High,75,Very High,Single,No,12,2,Better,2,2288
+Female,31,Travel_Rarely,Research & Development,12,Highschool,High,95,Very High,Married,Yes,23,7,Better,4,3929
+Female,34,Travel_Rarely,Research & Development,27,College,Very High,95,Medium,Single,No,15,9,Better,3,2311
+Female,41,Travel_Rarely,Sales,20,College,Medium,70,Medium,Single,Yes,22,4,Good,4,3140
+Male,50,Travel_Rarely,Research & Development,1,Bachelor,High,86,High,Married,No,15,5,Good,3,3690
+Female,53,Travel_Rarely,Research & Development,13,College,Very High,57,Low,Divorced,No,11,5,Better,4,4450
+Female,33,Travel_Rarely,Research & Development,14,Bachelor,Very High,72,Medium,Married,No,13,8,Better,8,2756
+Female,40,Travel_Rarely,Research & Development,4,Highschool,Very High,46,High,Married,No,14,21,Better,20,19033
+Male,55,Travel_Rarely,Research & Development,14,Master,High,61,Medium,Single,No,11,36,Better,24,18722
+Male,34,Travel_Frequently,Research & Development,2,Highschool,Very High,45,High,Married,No,17,10,Good,10,9547
+Female,51,Travel_Rarely,Research & Development,3,Bachelor,Very High,98,Medium,Single,No,18,21,Better,7,13734
+Male,52,Travel_Rarely,Research & Development,1,Master,High,65,High,Married,No,14,34,Better,33,19999
+Female,27,Travel_Rarely,Research & Development,9,Bachelor,Very High,99,Medium,Single,No,16,7,Good,7,2279
+Male,35,Travel_Rarely,Research & Development,23,College,Medium,50,High,Married,Yes,13,8,Better,1,5916
+Male,43,Non-Travel,Research & Development,7,Bachelor,Very High,37,Very High,Divorced,No,14,7,Best,5,2089
+Male,45,Non-Travel,Research & Development,2,College,Low,65,Very High,Married,No,23,22,Better,20,16792
+Male,37,Travel_Rarely,Research & Development,21,Bachelor,Medium,65,Low,Married,Yes,12,8,Good,8,3564
+Female,35,Travel_Frequently,Research & Development,2,Bachelor,Medium,37,Medium,Single,No,11,10,Better,6,4425
+Female,42,Non-Travel,Research & Development,21,College,High,36,High,Divorced,No,16,11,Better,5,5265
+Male,38,Travel_Rarely,Research & Development,2,Master,Very High,88,High,Married,No,14,14,Better,1,6553
+Male,38,Travel_Rarely,Research & Development,29,Bachelor,Very High,54,Very High,Married,No,18,9,Bad,7,6261
+Male,27,Travel_Frequently,Research & Development,1,Highschool,High,60,Low,Married,No,19,6,Better,2,4298
+Male,49,Non-Travel,Research & Development,18,Master,Very High,92,Very High,Divorced,Yes,15,7,Better,7,6804
+Male,34,Travel_Frequently,Research & Development,10,Master,Very High,43,High,Divorced,Yes,17,5,Best,5,3815
+Male,40,Travel_Rarely,Research & Development,19,College,High,99,Very High,Married,Yes,15,15,Best,7,2741
+Male,38,Travel_Rarely,Research & Development,29,Highschool,Medium,70,Low,Married,Yes,19,17,Better,1,6673
+Female,29,Travel_Rarely,Sales,27,Bachelor,Medium,35,Very High,Married,No,22,10,Good,10,7639
+Male,22,Travel_Rarely,Research & Development,5,Bachelor,Very High,60,Medium,Divorced,Yes,16,4,Good,4,2328
+Female,36,Travel_Frequently,Research & Development,18,Highschool,Medium,73,Very High,Single,No,13,8,Better,8,2153
+Male,40,Non-Travel,Research & Development,9,Doctor,Very High,63,Very High,Married,No,14,5,Bad,3,4876
+Male,46,Travel_Rarely,Research & Development,1,Master,Very High,97,Low,Divorced,No,16,17,Better,4,9396
+Male,32,Travel_Rarely,Sales,4,Master,Very High,32,Very High,Married,No,11,14,Good,14,10400
+Male,30,Non-Travel,Research & Development,1,Highschool,High,88,High,Single,No,22,12,Better,11,8474
+Female,27,Travel_Frequently,Sales,20,Bachelor,Very High,90,High,Single,No,14,7,Better,7,9981
+Male,51,Travel_Rarely,Research & Development,8,Master,Medium,81,Medium,Married,No,16,16,Bad,10,12490
+Female,30,Travel_Rarely,Research & Development,3,Bachelor,Very High,88,Low,Single,Yes,11,8,Better,5,2657
+Female,41,Travel_Rarely,Sales,6,Bachelor,Very High,75,Very High,Single,Yes,18,16,Better,1,13591
+Female,30,Travel_Frequently,Sales,26,Master,High,52,Low,Single,No,15,9,Good,6,6696
+Male,29,Travel_Rarely,Research & Development,1,Bachelor,High,85,High,Single,No,14,7,Good,6,2058
+Female,45,Non-Travel,Sales,6,Bachelor,Very High,57,Very High,Single,No,12,23,Better,19,8865
+Female,54,Travel_Rarely,Sales,3,Bachelor,Very High,52,Low,Married,No,14,16,Better,6,5940
+Male,36,Travel_Rarely,Research & Development,5,College,Very High,62,Medium,Single,No,16,16,Best,13,5914
+Female,33,Travel_Rarely,Research & Development,4,Master,High,47,Medium,Married,No,21,7,Better,3,2622
+Male,37,Travel_Frequently,Research & Development,11,Bachelor,Medium,47,Very High,Divorced,Yes,14,10,Better,10,12185
+Male,38,Travel_Rarely,Sales,3,Bachelor,Low,76,High,Divorced,No,12,17,Good,16,10609
+Male,31,Non-Travel,Research & Development,1,Master,High,90,High,Married,No,12,6,Better,5,4345
+Male,59,Travel_Rarely,Research & Development,3,Bachelor,High,70,Very High,Married,No,17,7,Better,1,2177
+Male,37,Travel_Frequently,Sales,4,Master,Low,41,Very High,Divorced,No,17,13,Better,9,2793
+Female,29,Travel_Frequently,Sales,1,Highschool,Medium,42,Very High,Married,No,14,11,Better,11,7918
+Female,35,Travel_Frequently,Sales,1,Bachelor,High,92,High,Single,No,14,10,Best,10,8789
+Male,29,Travel_Rarely,Research & Development,18,Highschool,High,86,Very High,Single,Yes,13,4,Good,4,2389
+Female,52,Travel_Rarely,Research & Development,2,Bachelor,High,89,Very High,Single,No,15,6,Good,2,3212
+Male,42,Travel_Rarely,Research & Development,4,College,High,58,Very High,Married,No,11,22,Better,22,19232
+Male,59,Travel_Rarely,Human Resources,6,College,Medium,52,High,Married,No,17,7,Good,2,2267
+Female,50,Travel_Rarely,Sales,1,Master,Very High,68,Very High,Divorced,No,11,32,Good,7,19517
+Male,33,Travel_Rarely,Research & Development,14,Bachelor,High,58,Very High,Married,Yes,13,8,Bad,5,2436
+Female,43,Travel_Rarely,Sales,16,Bachelor,Very High,80,Very High,Married,Yes,22,22,Better,17,16064
+Female,33,Travel_Rarely,Research & Development,2,College,Low,39,Low,Married,No,20,13,Best,9,2707
+Male,52,Non-Travel,Sales,2,Master,Low,79,High,Single,Yes,18,33,Best,33,19068
+Female,32,Travel_Rarely,Sales,4,College,High,56,Medium,Married,No,11,6,Better,4,3931
+Male,32,Travel_Rarely,Research & Development,1,Bachelor,Very High,62,High,Single,Yes,14,4,Bad,3,3730
+Female,39,Travel_Rarely,Research & Development,1,Master,High,96,High,Divorced,No,14,7,Better,3,2232
+Male,32,Non-Travel,Sales,26,Master,High,100,Very High,Married,No,18,4,Better,3,4465
+Male,41,Travel_Rarely,Research & Development,19,College,High,36,Low,Divorced,No,16,17,Good,1,3072
+Male,40,Travel_Rarely,Research & Development,24,College,Low,62,Very High,Divorced,No,17,9,Better,9,3319
+Male,45,Travel_Rarely,Research & Development,1,Bachelor,High,70,Very High,Married,No,11,25,Better,24,19202
+Male,31,Travel_Frequently,Research & Development,3,Master,Medium,73,High,Divorced,No,12,9,Better,2,13675
+Female,33,Travel_Rarely,Research & Development,5,Master,High,63,Very High,Married,No,13,2,Good,2,2911
+Male,34,Travel_Rarely,Research & Development,2,Master,Very High,84,Low,Married,No,13,13,Better,11,5957
+Female,37,Travel_Rarely,Research & Development,1,College,High,83,Low,Married,No,14,17,Good,3,3920
+Male,45,Travel_Frequently,Research & Development,7,Master,Low,77,High,Married,No,17,9,Better,3,6434
+Male,37,Travel_Frequently,Research & Development,10,Bachelor,Low,61,High,Divorced,No,11,17,Better,1,10048
+Female,39,Travel_Frequently,Research & Development,2,Master,High,64,High,Single,No,25,20,Better,19,10938
+Male,29,Travel_Rarely,Research & Development,15,Bachelor,High,60,Very High,Single,No,19,6,Better,6,2340
+Female,42,Travel_Rarely,Research & Development,17,College,Very High,82,Low,Single,Yes,13,10,Better,3,6545
+Male,29,Travel_Rarely,Sales,20,College,Very High,45,Very High,Divorced,No,14,10,Better,3,6931
+Female,25,Travel_Rarely,Research & Development,1,Bachelor,Low,62,High,Married,No,12,5,Better,4,4898
+Female,42,Travel_Rarely,Research & Development,2,Bachelor,Very High,56,Low,Divorced,Yes,11,10,Better,9,2593
+Male,40,Travel_Rarely,Research & Development,2,College,Low,49,High,Divorced,No,19,22,Better,21,19436
+Male,51,Travel_Rarely,Research & Development,1,Bachelor,High,96,Very High,Married,No,11,1,Good,1,2723
+Male,31,Travel_Frequently,Research & Development,29,College,High,71,Medium,Single,No,11,6,Best,5,3479
+Male,32,Travel_Frequently,Research & Development,7,Bachelor,Medium,100,Medium,Married,No,20,5,Bad,5,2794
+Male,38,Non-Travel,Sales,2,College,Very High,39,Very High,Married,No,18,13,Better,8,5249
+Male,32,Travel_Rarely,Research & Development,2,Highschool,Very High,84,Low,Single,No,13,9,Better,6,2176
+Female,46,Travel_Rarely,Sales,2,Bachelor,High,75,Medium,Married,Yes,12,28,Good,7,16872
+Male,28,Travel_Rarely,Research & Development,2,Master,Low,79,High,Single,No,11,5,Bad,0,3485
+Male,29,Travel_Rarely,Sales,2,Bachelor,Low,78,Medium,Married,No,19,10,Better,0,6644
+Male,31,Travel_Rarely,Research & Development,23,Bachelor,Medium,64,Very High,Married,No,21,10,Better,9,5582
+Male,25,Non-Travel,Research & Development,5,College,Medium,85,Low,Divorced,No,12,6,Better,6,4000
+Male,45,Travel_Rarely,Research & Development,20,College,High,79,Very High,Married,Yes,14,21,Better,20,13496
+Male,36,Travel_Rarely,Research & Development,6,Bachelor,Very High,47,Very High,Married,No,11,16,Better,15,3210
+Male,55,Travel_Rarely,Research & Development,1,Bachelor,Very High,81,Low,Single,Yes,14,37,Better,36,19045
+Male,47,Non-Travel,Research & Development,29,Master,Low,88,Medium,Married,Yes,12,10,Good,10,11849
+Male,28,Travel_Rarely,Research & Development,9,Bachelor,Very High,94,Very High,Married,No,23,5,Good,5,2070
+Male,37,Travel_Rarely,Sales,6,Master,High,98,Very High,Married,No,14,7,Best,5,6502
+Male,21,Travel_Rarely,Research & Development,3,College,Very High,100,High,Single,No,17,3,Best,3,3230
+Female,37,Non-Travel,Research & Development,1,Master,Low,80,Very High,Divorced,Yes,18,15,Better,5,13603
+Female,35,Travel_Rarely,Research & Development,22,Bachelor,Medium,71,Medium,Divorced,No,18,10,Good,7,11996
+Female,38,Travel_Rarely,Sales,7,College,Low,44,Low,Divorced,Yes,24,8,Better,8,5605
+Female,26,Travel_Frequently,Research & Development,1,Bachelor,High,84,Medium,Divorced,No,20,6,Bad,6,6397
+Male,50,Travel_Rarely,Research & Development,4,Highschool,Low,96,Medium,Divorced,No,14,28,Good,10,19144
+Male,53,Travel_Rarely,Research & Development,3,Master,High,45,High,Married,Yes,16,21,Good,5,17584
+Male,42,Travel_Rarely,Sales,1,Highschool,Medium,99,High,Married,No,25,20,Better,20,4907
+Male,29,Travel_Frequently,Sales,2,College,Medium,44,Very High,Single,No,18,10,Good,10,4554
+Male,55,Travel_Rarely,Research & Development,20,College,Medium,37,Very High,Married,Yes,19,12,Better,10,5415
+Male,26,Travel_Frequently,Research & Development,11,College,Low,60,Low,Married,Yes,13,5,Better,5,4741
+Female,37,Travel_Rarely,Research & Development,1,Bachelor,Very High,42,Very High,Single,No,12,17,Better,17,2115
+Male,44,Travel_Frequently,Research & Development,24,Bachelor,Very High,43,High,Divorced,Yes,22,19,Bad,1,3161
+Male,38,Travel_Rarely,Research & Development,23,Master,Very High,82,Very High,Divorced,No,14,10,Better,2,5745
+Male,26,Travel_Rarely,Research & Development,16,Master,Low,45,Medium,Divorced,Yes,13,5,Better,3,2373
+Female,28,Travel_Rarely,Research & Development,8,College,Very High,66,Very High,Single,No,21,5,Better,5,3310
+Female,49,Travel_Frequently,Research & Development,10,Master,High,35,Low,Single,Yes,11,22,Better,3,18665
+Male,36,Travel_Rarely,Research & Development,3,Bachelor,High,30,Medium,Single,No,12,10,Better,8,4485
+Female,31,Travel_Frequently,Sales,5,Bachelor,Very High,84,Medium,Divorced,No,11,2,Good,2,2789
+Male,26,Travel_Rarely,Sales,4,Master,Very High,48,Very High,Single,Yes,12,8,Better,8,5828
+Male,37,Travel_Frequently,Research & Development,9,Bachelor,Medium,53,Very High,Married,Yes,12,4,Good,4,2326
+Female,42,Travel_Frequently,Sales,26,Bachelor,High,77,Medium,Married,No,14,23,Best,20,13525
+Male,18,Travel_Rarely,Research & Development,3,Bachelor,High,54,High,Single,No,13,0,Better,0,1420
+Male,35,Travel_Rarely,Sales,16,Bachelor,High,96,Medium,Married,No,15,12,Good,11,8020
+Male,36,Travel_Frequently,Research & Development,18,Master,High,81,Very High,Married,No,18,4,Better,1,3688
+Male,51,Travel_Rarely,Research & Development,2,Bachelor,Very High,84,Medium,Divorced,No,18,13,Better,4,5482
+Male,41,Travel_Rarely,Sales,2,Master,Very High,88,Medium,Single,No,19,22,Better,22,16015
+Female,18,Travel_Rarely,Sales,10,Bachelor,Very High,69,High,Single,No,12,0,Better,0,1200
+Male,28,Travel_Rarely,Research & Development,16,College,Medium,68,Low,Single,No,19,9,Better,8,5661
+Male,31,Travel_Rarely,Sales,7,Bachelor,Medium,100,Very High,Married,No,11,10,Good,8,6929
+Male,39,Travel_Rarely,Research & Development,1,Bachelor,High,48,Very High,Divorced,No,17,19,Good,18,9613
+Female,36,Non-Travel,Research & Development,24,Master,Medium,47,Medium,Married,No,15,11,Better,9,5674
+Male,32,Travel_Rarely,Sales,7,Bachelor,Very High,91,High,Married,No,14,13,Good,13,5484
+Female,38,Travel_Rarely,Research & Development,25,College,Low,81,Medium,Married,No,17,19,Better,10,12061
+Male,58,Non-Travel,Research & Development,1,Master,Very High,32,High,Divorced,Yes,13,12,Better,5,5660
+Male,31,Travel_Rarely,Research & Development,5,Master,High,86,Very High,Married,Yes,12,6,Better,5,4821
+Male,31,Travel_Rarely,Human Resources,2,Bachelor,Low,62,Low,Married,No,12,9,Better,2,6410
+Male,45,Travel_Frequently,Research & Development,7,Bachelor,Low,97,Low,Divorced,No,18,24,Better,24,5210
+Male,31,Travel_Rarely,Research & Development,2,Master,High,32,Very High,Divorced,Yes,18,3,Bad,2,2695
+Female,33,Travel_Frequently,Research & Development,5,Master,Very High,74,Medium,Married,No,11,12,Better,10,11878
+Male,39,Travel_Rarely,Research & Development,10,Highschool,High,99,Low,Married,Yes,14,21,Better,21,17068
+Female,43,Travel_Frequently,Research & Development,10,Master,High,33,Very High,Single,No,19,9,Better,8,2455
+Female,49,Travel_Rarely,Research & Development,1,College,High,90,High,Single,Yes,12,25,Better,7,13964
+Male,52,Travel_Rarely,Research & Development,8,Master,High,85,Medium,Married,No,15,11,Good,8,4941
+Female,27,Travel_Rarely,Research & Development,5,Bachelor,High,85,Medium,Single,Yes,12,4,Good,4,2478
+Female,32,Travel_Rarely,Sales,8,College,High,65,Medium,Married,Yes,11,13,Better,13,5228
+Male,27,Travel_Rarely,Sales,2,Bachelor,Very High,74,High,Single,Yes,11,5,Better,5,4478
+Male,31,Travel_Rarely,Sales,7,Bachelor,Very High,73,Very High,Divorced,No,12,13,Better,7,7547
+Female,32,Travel_Rarely,Research & Development,2,Master,Low,74,Very High,Single,No,16,10,Good,7,5055
+Male,28,Travel_Rarely,Research & Development,2,Master,Low,84,Very High,Married,Yes,13,5,Good,3,3464
+Female,30,Travel_Rarely,Research & Development,28,College,Very High,64,Very High,Married,No,13,11,Better,10,5775
+Female,31,Travel_Frequently,Research & Development,7,College,High,48,High,Married,No,24,10,Better,10,8943
+Male,39,Travel_Frequently,Research & Development,7,College,High,54,Very High,Married,No,15,21,Better,21,19272
+Female,39,Travel_Rarely,Sales,3,College,Very High,41,High,Married,Yes,18,12,Good,1,5238
+Male,33,Travel_Frequently,Sales,10,Bachelor,Medium,46,Very High,Single,No,14,9,Good,7,4682
+Male,47,Travel_Rarely,Research & Development,5,Doctor,Very High,42,High,Married,No,11,21,Better,3,18300
+Female,43,Travel_Frequently,Research & Development,10,Master,High,82,High,Divorced,No,11,9,Best,9,5257
+Male,27,Non-Travel,Sales,1,Highschool,High,73,Medium,Married,Yes,13,6,Better,5,6349
+Female,54,Travel_Frequently,Research & Development,20,Master,Very High,31,High,Single,No,12,20,Good,4,4869
+Female,43,Travel_Rarely,Research & Development,7,Bachelor,High,43,Low,Married,No,16,10,Good,1,9985
+Male,45,Travel_Rarely,Research & Development,8,Master,Very High,75,Very High,Married,No,14,12,Better,10,3697
+Male,40,Travel_Rarely,Sales,1,College,Medium,57,Very High,Married,Yes,22,6,Good,4,7457
+Male,29,Travel_Rarely,Research & Development,8,Master,Medium,77,Low,Married,Yes,11,7,Good,7,2119
+Male,29,Travel_Rarely,Research & Development,9,Doctor,Medium,30,Very High,Single,No,17,4,Better,3,3983
+Female,30,Travel_Rarely,Sales,5,Bachelor,Very High,30,High,Divorced,No,13,10,Better,10,6118
+Female,27,Travel_Rarely,Sales,8,Master,Medium,56,Medium,Married,No,18,8,Better,8,6214
+Male,37,Travel_Rarely,Research & Development,5,College,Very High,61,Very High,Divorced,No,16,8,Good,6,6347
+Male,38,Travel_Rarely,Research & Development,15,College,High,92,Very High,Divorced,Yes,14,12,Better,11,11510
+Female,31,Travel_Rarely,Research & Development,7,Master,High,39,Very High,Single,Yes,14,11,Good,11,7143
+Female,29,Travel_Rarely,Sales,10,Highschool,Very High,39,Medium,Divorced,Yes,14,7,Better,7,8268
+Male,35,Travel_Rarely,Research & Development,5,Master,High,62,Medium,Single,No,13,17,Better,16,8095
+Male,23,Travel_Rarely,Research & Development,26,Highschool,High,83,Very High,Divorced,No,12,4,Good,4,2904
+Male,41,Travel_Rarely,Research & Development,6,Bachelor,Very High,95,Medium,Single,Yes,15,8,Better,5,6032
+Male,47,Travel_Frequently,Sales,4,Highschool,Medium,99,High,Single,No,19,5,Better,0,2976
+Female,42,Travel_Rarely,Research & Development,23,Doctor,Low,44,Very High,Single,No,14,16,Better,1,15992
+Male,29,Non-Travel,Sales,2,Bachelor,Very High,61,High,Married,No,14,4,Good,4,4649
+Male,42,Travel_Rarely,Human Resources,2,Highschool,High,52,High,Divorced,Yes,11,4,Better,3,2696
+Female,32,Travel_Rarely,Research & Development,2,Bachelor,High,75,Medium,Married,No,13,8,Better,8,2370
+Female,48,Travel_Rarely,Sales,29,Highschool,Low,91,High,Married,No,21,15,Bad,0,12504
+Male,37,Travel_Rarely,Research & Development,6,Bachelor,High,51,Low,Divorced,Yes,13,13,Better,7,5974
+Female,30,Non-Travel,Sales,25,College,Very High,85,High,Married,Yes,12,4,Best,2,4736
+Male,26,Travel_Rarely,Sales,1,Bachelor,High,57,High,Married,No,17,8,Better,8,5296
+Male,42,Travel_Rarely,Research & Development,2,Master,Low,98,Very High,Single,No,23,14,Better,1,6781
+Female,21,Travel_Frequently,Sales,1,Highschool,Low,99,Medium,Single,Yes,11,3,Better,3,2174
+Female,36,Non-Travel,Sales,1,Doctor,Very High,45,Very High,Single,No,15,7,Better,1,6653
+Male,36,Travel_Frequently,Sales,3,Master,Low,48,Very High,Married,No,11,16,Better,13,9699
+Male,57,Travel_Rarely,Research & Development,1,Master,Very High,88,High,Married,No,11,15,Better,3,6755
+Female,40,Travel_Rarely,Research & Development,10,Master,Very High,46,High,Married,Yes,13,10,Better,7,2213
+Male,21,Non-Travel,Sales,9,College,Low,39,Very High,Single,No,24,3,Good,3,2610
+Female,33,Travel_Rarely,Sales,5,Bachelor,Very High,34,High,Single,Yes,13,1,Better,1,2851
+Female,37,Travel_Rarely,Research & Development,10,Bachelor,High,98,Low,Married,No,20,17,Better,5,3452
+Female,46,Non-Travel,Research & Development,7,Master,High,30,High,Married,No,14,7,Best,1,5258
+Male,41,Travel_Frequently,Sales,4,Bachelor,Low,56,Medium,Single,No,18,8,Better,8,9355
+Male,50,Travel_Rarely,Research & Development,10,Bachelor,Very High,100,Very High,Single,No,15,20,Better,4,10496
+Male,40,Travel_Rarely,Sales,22,College,High,68,High,Married,Yes,12,8,Better,6,6380
+Male,31,Travel_Rarely,Research & Development,9,Master,High,42,Medium,Single,Yes,16,3,Better,2,2657
+Female,21,Travel_Rarely,Sales,12,Bachelor,High,90,Medium,Single,No,15,1,Better,1,2716
+Male,29,Travel_Rarely,Research & Development,23,Bachelor,Very High,54,Very High,Single,No,16,6,Better,3,2201
+Male,35,Travel_Rarely,Research & Development,9,Master,High,97,Medium,Single,No,19,10,Better,1,6540
+Male,27,Travel_Rarely,Research & Development,1,College,Very High,82,Medium,Divorced,No,11,5,Better,5,3816
+Male,28,Travel_Rarely,Sales,9,Master,Medium,92,Very High,Single,No,16,7,Better,7,5253
+Male,49,Travel_Rarely,Research & Development,7,Bachelor,Medium,31,High,Single,No,24,26,Better,5,10965
+Female,51,Travel_Rarely,Sales,14,College,High,87,Very High,Married,No,11,18,Good,7,4936
+Female,36,Travel_Rarely,Research & Development,2,Bachelor,Very High,96,High,Married,No,13,6,Better,2,2543
+Male,34,Non-Travel,Sales,19,Bachelor,Low,67,Very High,Single,Yes,13,9,Good,5,5304
+Female,55,Travel_Rarely,Research & Development,2,Bachelor,High,97,Very High,Single,Yes,13,30,Better,5,16659
+Female,24,Travel_Rarely,Sales,10,Master,Very High,77,High,Divorced,Yes,12,5,Best,5,4260
+Male,30,Travel_Rarely,Sales,2,Highschool,High,72,Medium,Married,No,18,1,Better,1,2476
+Male,26,Travel_Frequently,Research & Development,3,Highschool,High,73,Low,Single,No,22,7,Better,6,3102
+Female,22,Travel_Rarely,Research & Development,11,Bachelor,Low,43,Medium,Married,No,13,2,Better,2,2244
+Male,36,Travel_Rarely,Sales,2,College,Medium,61,High,Married,No,13,10,Better,10,7596
+Male,30,Travel_Frequently,Research & Development,4,Bachelor,High,40,Very High,Single,Yes,23,3,Better,1,2285
+Female,37,Travel_Rarely,Research & Development,14,Bachelor,Very High,95,Low,Divorced,No,12,18,Good,18,3034
+Female,40,Travel_Rarely,Sales,2,College,Very High,46,Medium,Divorced,No,12,8,Better,5,5715
+Female,42,Travel_Rarely,Research & Development,1,Master,Medium,95,Low,Divorced,No,16,8,Better,5,2576
+Male,37,Travel_Rarely,Research & Development,10,Master,High,49,Medium,Single,Yes,12,18,Good,1,4197
+Male,43,Travel_Rarely,Research & Development,12,Bachelor,Low,59,Medium,Divorced,No,11,25,Better,25,14336
+Female,40,Travel_Rarely,Research & Development,2,Bachelor,Medium,78,High,Married,No,22,20,Better,1,3448
+Male,54,Travel_Rarely,Research & Development,5,College,Low,86,Low,Married,No,11,24,Good,4,19406
+Female,34,Non-Travel,Sales,4,Master,High,72,High,Married,No,15,6,Better,3,6538
+Female,31,Travel_Rarely,Research & Development,7,College,Medium,31,Low,Married,No,12,13,Bad,13,4306
+Male,43,Travel_Frequently,Research & Development,21,Bachelor,Very High,61,Very High,Married,No,20,8,Better,3,2258
+Female,43,Travel_Rarely,Research & Development,8,Master,High,74,High,Divorced,Yes,14,8,Better,5,4522
+Female,25,Travel_Rarely,Sales,4,College,Medium,99,Very High,Single,Yes,11,5,Better,5,4487
+Female,37,Non-Travel,Research & Development,25,Doctor,Medium,72,High,Married,Yes,15,15,Better,13,4449
+Male,31,Travel_Rarely,Research & Development,1,College,Very High,98,Low,Married,No,12,4,Better,4,2218
+Male,39,Travel_Frequently,Research & Development,1,Highschool,Medium,52,High,Divorced,Yes,14,21,Better,21,19197
+Female,56,Travel_Frequently,Sales,6,Bachelor,High,86,Low,Married,No,11,36,Good,7,13212
+Female,30,Travel_Rarely,Sales,12,Bachelor,Medium,83,High,Single,No,11,6,Better,5,6577
+Male,41,Travel_Rarely,Sales,1,Bachelor,Medium,49,Low,Married,No,16,10,Better,10,8392
+Male,28,Travel_Rarely,Research & Development,17,College,High,79,Low,Divorced,No,12,10,Better,10,4558
+Male,25,Travel_Rarely,Research & Development,3,Bachelor,Low,91,Low,Married,No,13,6,Better,2,4031
+Male,52,Travel_Rarely,Research & Development,3,Bachelor,Very High,39,High,Married,Yes,14,28,Better,5,7969
+Male,45,Travel_Rarely,Research & Development,10,College,Low,69,Very High,Married,No,21,8,Good,2,2654
+Female,52,Travel_Rarely,Research & Development,4,College,Very High,30,Very High,Married,No,13,31,Bad,5,16555
+Female,42,Travel_Frequently,Research & Development,29,College,Low,92,High,Divorced,No,11,19,Better,5,4556
+Female,30,Travel_Rarely,Research & Development,2,Bachelor,High,43,Very High,Single,No,20,11,Better,5,6091
+Female,60,Travel_Rarely,Research & Development,7,Bachelor,Low,41,Low,Married,No,11,33,Bad,29,19566
+Female,46,Travel_Rarely,Research & Development,18,Bachelor,High,87,High,Divorced,No,14,19,Good,10,4810
+Female,42,Travel_Frequently,Research & Development,28,Master,Very High,88,Very High,Married,No,11,7,Best,6,4523
+Female,24,Travel_Rarely,Sales,1,Highschool,Low,62,Medium,Single,Yes,16,6,Better,5,3202
+Female,34,Travel_Frequently,Sales,6,College,Very High,33,High,Divorced,No,16,3,Good,2,2351
+Male,38,Travel_Frequently,Research & Development,2,College,Very High,42,Very High,Married,Yes,23,1,Better,1,1702
+Female,40,Travel_Rarely,Sales,2,Master,High,79,High,Married,No,14,21,Better,20,18041
+Female,26,Travel_Rarely,Research & Development,23,Bachelor,Low,90,Very High,Divorced,No,22,3,Bad,3,2886
+Male,30,Non-Travel,Research & Development,3,Bachelor,High,53,Very High,Married,No,15,9,Bad,5,2097
+Male,29,Travel_Rarely,Research & Development,3,Master,Medium,93,High,Married,No,18,10,Better,10,11935
+Female,29,Travel_Rarely,Research & Development,25,Doctor,High,71,Medium,Married,No,16,6,Best,2,2546
+Male,19,Travel_Rarely,Human Resources,2,College,Low,52,Very High,Single,No,12,1,Best,1,2564
+Female,30,Non-Travel,Sales,22,Master,High,69,Low,Married,No,11,10,Better,9,8412
+Male,57,Travel_Rarely,Sales,29,Bachelor,Low,56,Very High,Divorced,No,12,32,Good,1,14118
+Male,50,Travel_Rarely,Research & Development,29,Master,Medium,88,High,Married,No,15,28,Better,27,17046
+Female,30,Non-Travel,Research & Development,2,Bachelor,High,49,Very High,Single,No,14,12,Good,11,2564
+Female,60,Travel_Frequently,Sales,28,Bachelor,High,80,Low,Married,No,19,22,Best,18,10266
+Female,47,Travel_Rarely,Research & Development,2,College,Low,65,Very High,Divorced,No,13,20,Better,5,5070
+Male,46,Travel_Rarely,Research & Development,2,Bachelor,Low,51,High,Married,No,13,26,Bad,3,17861
+Male,35,Travel_Rarely,Research & Development,22,Bachelor,Very High,46,High,Single,No,15,6,Better,5,4230
+Female,54,Travel_Rarely,Research & Development,8,Master,High,42,High,Single,No,11,19,Better,1,3780
+Male,34,Travel_Rarely,Research & Development,2,Master,Very High,62,High,Divorced,No,12,14,Better,7,2768
+Female,46,Travel_Rarely,Sales,10,Bachelor,High,94,Very High,Married,Yes,19,15,Better,3,9071
+Male,31,Travel_Rarely,Research & Development,9,Highschool,High,33,Medium,Divorced,No,25,13,Best,13,10648
+Male,33,Travel_Rarely,Research & Development,15,Highschool,Medium,56,High,Married,Yes,12,15,Best,7,13610
+Male,33,Travel_Rarely,Research & Development,10,Highschool,Low,38,Very High,Divorced,No,13,8,Better,4,3408
+Male,30,Travel_Rarely,Sales,7,Highschool,Very High,57,Medium,Single,No,14,4,Better,3,2983
+Male,35,Travel_Rarely,Research & Development,16,Bachelor,Very High,72,High,Married,Yes,12,10,Better,8,7632
+Male,31,Travel_Frequently,Research & Development,20,Bachelor,Low,66,High,Married,No,12,12,Better,1,9824
+Female,34,Travel_Frequently,Human Resources,23,Bachelor,Medium,43,Low,Divorced,Yes,15,11,Better,3,9950
+Male,42,Travel_Frequently,Research & Development,5,College,Medium,97,High,Married,No,17,8,Better,2,2093
+Male,36,Non-Travel,Sales,10,Master,Medium,32,Very High,Single,No,14,10,Good,10,9980
+Male,22,Travel_Frequently,Research & Development,4,Highschool,High,99,High,Single,No,16,4,Better,2,3894
+Female,48,Travel_Rarely,Sales,2,Doctor,Medium,37,Very High,Married,No,14,14,Better,9,4051
+Female,55,Travel_Rarely,Sales,18,Doctor,Low,83,Medium,Single,No,23,37,Better,10,16835
+Male,41,Non-Travel,Sales,10,College,Very High,56,Very High,Single,No,14,16,Better,14,6230
+Male,35,Travel_Rarely,Sales,1,Bachelor,Medium,85,High,Married,No,11,15,Better,11,4717
+Female,40,Travel_Rarely,Research & Development,6,Bachelor,Medium,75,High,Single,No,15,22,Better,20,13237
+Female,39,Travel_Frequently,Research & Development,8,Highschool,High,48,High,Married,No,11,8,Better,8,3755
+Male,31,Travel_Rarely,Sales,2,Highschool,Medium,77,Very High,Single,Yes,13,10,Best,6,6582
+Male,42,Travel_Rarely,Research & Development,24,Bachelor,Very High,56,Low,Married,Yes,21,10,Good,10,7406
+Male,45,Travel_Rarely,Sales,2,Bachelor,Very High,61,Medium,Married,No,19,9,Best,8,4805
+Female,26,Travel_Frequently,Human Resources,17,Master,Medium,58,High,Divorced,Yes,11,8,Good,7,2741
+Male,29,Travel_Rarely,Research & Development,19,Bachelor,Very High,34,Very High,Divorced,No,12,8,Best,3,4262
+Female,33,Travel_Rarely,Research & Development,1,Doctor,Low,95,High,Divorced,No,19,10,Better,6,16184
+Male,31,Travel_Rarely,Sales,7,Bachelor,High,44,Very High,Divorced,No,21,10,Good,5,11557
+Male,18,Travel_Frequently,Sales,5,Bachelor,Medium,69,Medium,Single,Yes,14,0,Better,0,1878
+Male,40,Non-Travel,Sales,28,Bachelor,High,58,Low,Divorced,No,15,20,Better,1,10932
+Female,41,Non-Travel,Research & Development,2,Master,Low,62,High,Single,Yes,17,10,Better,8,6811
+Male,26,Travel_Rarely,Sales,29,College,Low,45,High,Divorced,No,12,8,Better,0,4306
+Female,35,Travel_Rarely,Sales,1,Bachelor,Low,80,High,Single,No,16,5,Better,5,4859
+Male,34,Travel_Rarely,Sales,21,Master,Very High,74,Very High,Single,No,12,10,Better,10,5337
+Male,26,Travel_Rarely,Research & Development,24,Bachelor,High,66,Very High,Single,Yes,18,1,Bad,1,2340
+Female,37,Travel_Rarely,Research & Development,1,Bachelor,Medium,59,Very High,Single,No,17,12,Best,6,7491
+Female,46,Travel_Frequently,Research & Development,18,Highschool,Low,86,High,Married,No,11,28,Good,2,10527
+Female,41,Travel_Rarely,Sales,2,Doctor,Medium,91,Low,Married,No,16,22,Better,18,16595
+Male,37,Non-Travel,Sales,9,Master,Low,69,Medium,Divorced,No,13,9,Better,9,8834
+Male,52,Travel_Rarely,Research & Development,6,College,Very High,78,Low,Divorced,Yes,12,18,Better,10,5577
+Male,32,Non-Travel,Sales,11,Master,Very High,60,High,Married,No,12,6,Better,4,4707
+Male,24,Travel_Frequently,Sales,24,Bachelor,Very High,38,Very High,Married,No,13,3,Better,2,2400
+Female,38,Travel_Rarely,Research & Development,10,Bachelor,High,76,High,Married,No,19,18,Better,1,9824
+Female,37,Travel_Rarely,Research & Development,1,Master,Medium,65,Medium,Married,No,12,8,Good,6,6447
+Male,49,Travel_Rarely,Research & Development,18,Master,Very High,58,High,Divorced,Yes,17,31,Better,31,19502
+Male,24,Travel_Rarely,Research & Development,23,Bachelor,Medium,89,Very High,Married,Yes,11,6,Better,6,2725
+Male,26,Travel_Rarely,Sales,28,College,Low,66,Medium,Married,No,20,6,Best,5,6272
+Male,24,Travel_Rarely,Research & Development,17,College,Very High,94,Medium,Married,No,21,1,Better,1,2127
+Male,50,Travel_Frequently,Human Resources,3,Bachelor,Low,99,Medium,Married,No,11,32,Better,32,18200
+Male,25,Travel_Rarely,Sales,13,Highschool,Medium,40,High,Married,No,11,7,Better,7,2096
+Female,24,Travel_Frequently,Research & Development,7,Bachelor,Low,55,High,Married,Yes,16,6,Better,6,2886
+Male,30,Travel_Frequently,Sales,12,Master,Medium,74,Low,Married,No,18,1,Best,1,2033
+Male,34,Travel_Rarely,Research & Development,1,College,Medium,83,Very High,Married,Yes,13,6,Better,6,3622
+Male,31,Travel_Rarely,Sales,13,Master,Medium,46,Low,Divorced,No,17,9,Bad,3,4233
+Male,35,Travel_Rarely,Research & Development,25,College,Low,54,Very High,Single,No,14,9,Better,3,3681
+Male,31,Travel_Rarely,Sales,6,Master,Low,66,Very High,Divorced,No,22,13,Best,7,5460
+Female,27,Travel_Rarely,Research & Development,6,Master,Low,66,High,Divorced,No,12,6,Good,5,2187
+Male,37,Travel_Rarely,Sales,2,Bachelor,Very High,75,High,Married,Yes,11,17,Good,3,9602
+Female,20,Travel_Rarely,Research & Development,1,Bachelor,Very High,83,Medium,Single,No,13,1,Best,1,2836
+Female,42,Travel_Rarely,Research & Development,2,Master,High,81,Very High,Married,No,13,10,Better,10,4089
+Male,43,Travel_Rarely,Research & Development,6,Master,Medium,50,Very High,Divorced,Yes,14,21,Good,1,16627
+Female,38,Travel_Rarely,Research & Development,1,Highschool,High,43,Low,Single,No,17,8,Good,0,2619
+Male,43,Travel_Frequently,Research & Development,9,Doctor,Very High,72,High,Divorced,Yes,13,10,Better,8,5679
+Female,48,Travel_Rarely,Research & Development,1,Master,Very High,40,Low,Married,No,11,21,Bad,3,15402
+Female,44,Travel_Rarely,Human Resources,1,Master,Low,50,High,Single,No,11,10,Best,2,5985
+Female,34,Travel_Rarely,Sales,14,Bachelor,High,31,High,Divorced,Yes,18,8,Better,8,2579
+Male,27,Travel_Rarely,Sales,2,Highschool,High,85,Low,Divorced,No,11,5,Better,4,3041
+Male,21,Travel_Rarely,Sales,22,Highschool,High,49,High,Single,No,11,3,Better,3,3447
+Male,44,Travel_Rarely,Research & Development,3,Master,Very High,35,Very High,Married,Yes,12,26,Best,2,19513
+Male,22,Travel_Rarely,Research & Development,6,Highschool,Low,69,High,Married,No,20,3,Better,2,2773
+Male,33,Travel_Rarely,Sales,8,Master,High,39,High,Divorced,No,12,6,Better,5,7104
+Female,32,Travel_Rarely,Research & Development,9,Master,Low,92,Very High,Married,Yes,12,6,Good,6,6322
+Female,30,Travel_Frequently,Research & Development,3,Bachelor,High,71,High,Divorced,No,20,1,Better,1,2083
+Female,53,Travel_Rarely,Sales,1,Highschool,Very High,34,Low,Single,No,20,18,Best,14,8381
+Male,34,Travel_Rarely,Research & Development,1,Doctor,Medium,42,Very High,Married,No,12,10,Good,10,2691
+Female,45,Travel_Frequently,Sales,26,Master,Low,100,Low,Married,No,14,5,Better,1,4286
+Female,26,Travel_Rarely,Research & Development,6,Bachelor,High,71,Very High,Married,Yes,13,3,Better,3,2659
+Male,37,Travel_Rarely,Research & Development,3,Bachelor,High,36,High,Married,No,15,10,Better,10,9434
+Female,29,Travel_Rarely,Sales,3,College,Medium,62,High,Married,No,14,6,Good,6,5561
+Male,35,Travel_Rarely,Research & Development,6,Master,Medium,82,Very High,Single,No,13,17,Better,17,6646
+Male,33,Travel_Frequently,Research & Development,6,Bachelor,High,30,Very High,Divorced,No,23,15,Bad,13,7725
+Male,54,Travel_Rarely,Human Resources,19,Master,High,88,Medium,Married,No,15,16,Best,9,10725
+Male,36,Travel_Rarely,Research & Development,9,College,Medium,48,Medium,Divorced,Yes,11,13,Better,3,8847
+Male,27,Travel_Rarely,Research & Development,3,Master,Low,54,Very High,Single,No,13,5,Better,4,2045
+Male,20,Travel_Rarely,Research & Development,10,Highschool,Very High,32,High,Single,Yes,11,1,Better,1,1009
+Male,33,Travel_Frequently,Research & Development,3,Bachelor,Low,70,Low,Single,Yes,11,10,Better,10,3348
+Male,35,Non-Travel,Research & Development,3,Bachelor,High,41,High,Married,No,18,1,Better,1,1281
+Male,23,Travel_Rarely,Research & Development,4,Bachelor,Low,58,Low,Married,No,16,5,Best,3,2819
+Male,25,Travel_Rarely,Sales,8,Bachelor,Very High,57,Medium,Married,No,22,4,Better,3,4851
+Female,38,Travel_Rarely,Sales,7,Master,Very High,46,Very High,Single,No,20,8,Better,7,4028
+Male,29,Travel_Frequently,Research & Development,1,Master,Medium,76,Very High,Divorced,No,18,10,Better,10,2720
+Male,48,Travel_Rarely,Sales,2,Highschool,Medium,56,Medium,Married,No,12,12,Better,2,8120
+Female,27,Travel_Frequently,Sales,3,Highschool,Very High,71,Very High,Divorced,Yes,20,6,Better,6,4647
+Male,37,Travel_Rarely,Research & Development,10,College,Very High,80,Very High,Single,No,17,4,Better,1,4680
+Male,50,Travel_Rarely,Research & Development,28,Highschool,Very High,74,High,Married,Yes,11,20,Better,20,3221
+Female,34,Travel_Rarely,Research & Development,9,Bachelor,Very High,46,Medium,Single,No,14,9,Best,8,8621
+Female,24,Travel_Rarely,Sales,3,College,Low,65,High,Single,No,14,4,Better,2,4577
+Female,39,Travel_Rarely,Research & Development,2,Master,Very High,80,High,Single,No,11,20,Better,20,4553
+Male,32,Travel_Rarely,Sales,10,Bachelor,Very High,55,Very High,Single,No,12,10,Good,10,5396
+Male,50,Travel_Frequently,Sales,8,College,Medium,50,High,Married,Yes,14,18,Better,4,6796
+Female,38,Travel_Rarely,Research & Development,1,Master,Medium,33,Very High,Single,No,13,10,Good,9,7625
+Female,27,Travel_Rarely,Research & Development,1,College,High,68,Low,Married,No,11,9,Better,9,7412
+Female,32,Travel_Rarely,Research & Development,3,College,High,39,Very High,Single,No,15,10,Better,7,11159
+Male,47,Travel_Rarely,Sales,14,Master,Very High,42,Low,Single,No,12,20,Better,7,4960
+Male,40,Travel_Frequently,Sales,5,Master,Very High,48,Low,Married,Yes,21,20,Better,18,10475
+Male,53,Travel_Rarely,Research & Development,7,Bachelor,High,59,High,Married,No,19,32,Better,5,14814
+Male,41,Travel_Rarely,Human Resources,10,Master,Medium,73,Very High,Divorced,No,15,23,Good,21,19141
+Male,60,Travel_Rarely,Sales,16,Master,Low,84,Low,Single,No,14,10,Better,2,5405
+Male,27,Travel_Frequently,Research & Development,10,College,Very High,32,Low,Divorced,No,21,9,Good,9,8793
+Male,41,Travel_Rarely,Human Resources,1,Bachelor,Very High,59,High,Married,No,12,22,Better,22,19189
+Male,50,Travel_Rarely,Sales,8,Master,Very High,54,Medium,Married,No,15,4,Better,2,3875
+Female,28,Travel_Rarely,Research & Development,1,College,Low,67,Medium,Single,Yes,13,10,Better,7,2216
+Female,36,Non-Travel,Research & Development,8,Bachelor,Low,63,Low,Married,No,14,10,Better,8,11713
+Female,38,Travel_Rarely,Research & Development,1,Bachelor,High,81,High,Single,Yes,14,10,Best,1,7861
+Male,44,Non-Travel,Research & Development,24,Bachelor,Low,49,High,Single,No,14,9,Better,5,3708
+Female,47,Travel_Frequently,Sales,3,Bachelor,Very High,49,High,Divorced,Yes,12,28,Good,22,13770
+Male,30,Travel_Rarely,Sales,27,Doctor,High,99,Very High,Divorced,No,23,10,Good,8,5304
+Male,29,Travel_Rarely,Sales,10,Bachelor,High,99,High,Single,No,11,1,Better,1,2642
+Male,42,Travel_Frequently,Research & Development,19,Bachelor,High,57,High,Divorced,Yes,12,7,Better,2,2759
+Male,43,Travel_Frequently,Sales,15,Bachelor,Very High,47,Very High,Married,No,18,7,Better,2,6804
+Female,34,Travel_Rarely,Research & Development,8,College,Medium,96,High,Single,No,11,10,Better,5,6142
+Male,23,Travel_Rarely,Research & Development,9,Highschool,Medium,37,Low,Married,No,14,5,Best,4,2500
+Female,39,Travel_Rarely,Human Resources,3,Bachelor,High,44,Medium,Married,No,15,12,Bad,8,6389
+Male,56,Travel_Rarely,Research & Development,9,Bachelor,High,81,Very High,Married,No,11,30,Good,10,11103
+Female,40,Travel_Rarely,Research & Development,2,Highschool,Very High,86,Very High,Single,Yes,20,5,Good,4,2342
+Female,27,Travel_Rarely,Research & Development,7,Bachelor,Very High,55,Low,Single,No,19,9,Bad,7,6811
+Male,29,Travel_Rarely,Sales,10,Bachelor,Very High,83,Medium,Divorced,No,14,2,Better,2,2297
+Male,53,Travel_Rarely,Research & Development,6,Bachelor,Very High,86,Very High,Single,No,17,19,Better,2,2450
+Female,35,Non-Travel,Research & Development,2,Master,Very High,61,Low,Divorced,No,11,16,Best,1,5093
+Male,32,Travel_Frequently,Research & Development,24,Master,Low,80,Very High,Married,No,15,10,Better,10,5309
+Male,38,Travel_Rarely,Research & Development,2,Doctor,Very High,92,High,Married,Yes,13,6,Bad,1,3057
+Female,34,Travel_Rarely,Research & Development,8,Doctor,Medium,32,Low,Divorced,No,14,7,Better,0,5121
+Male,52,Travel_Rarely,Sales,3,Master,High,31,Low,Married,No,11,34,Best,34,16856
+Male,33,Travel_Rarely,Research & Development,1,Master,Very High,63,Very High,Single,Yes,13,10,Good,10,2686
+Female,25,Travel_Rarely,Sales,26,Highschool,High,32,Very High,Single,No,23,6,Good,6,6180
+Male,45,Travel_Rarely,Sales,2,College,Medium,46,High,Single,No,13,9,Better,8,6632
+Male,23,Travel_Rarely,Research & Development,10,Highschool,Low,79,High,Single,No,18,2,Better,2,3505
+Female,47,Travel_Frequently,Sales,27,College,Medium,77,High,Single,Yes,12,8,Better,5,6397
+Male,34,Travel_Rarely,Sales,2,Bachelor,Very High,60,Very High,Single,No,22,6,Better,6,6274
+Male,55,Travel_Rarely,Research & Development,2,Bachelor,Very High,78,Low,Married,Yes,13,24,Better,5,19859
+Male,36,Non-Travel,Sales,8,Master,Low,76,Low,Single,No,15,10,Better,10,7587
+Male,52,Non-Travel,Research & Development,19,Master,Very High,41,Very High,Married,No,18,5,Better,4,4258
+Female,26,Travel_Frequently,Research & Development,1,College,Low,71,Very High,Divorced,No,14,5,Better,2,4364
+Female,29,Travel_Rarely,Research & Development,27,Bachelor,Medium,66,High,Married,No,12,11,Good,8,4335
+Male,26,Travel_Rarely,Sales,8,Bachelor,Very High,38,Low,Single,No,17,6,Good,4,5326
+Female,34,Travel_Rarely,Research & Development,1,Master,Medium,72,Very High,Single,No,16,10,Better,4,3280
+Female,54,Travel_Rarely,Research & Development,19,Master,Very High,95,Low,Divorced,Yes,11,9,Better,5,5485
+Male,27,Travel_Frequently,Sales,8,Highschool,High,84,Very High,Married,No,19,5,Better,4,4342
+Female,37,Travel_Rarely,Research & Development,10,Highschool,Very High,82,Low,Divorced,Yes,13,6,Good,5,2782
+Female,38,Travel_Frequently,Research & Development,2,Master,Low,75,Low,Single,Yes,12,17,Better,15,5980
+Female,34,Travel_Rarely,Research & Development,2,Master,High,86,Low,Single,No,11,6,Better,6,4381
+Female,35,Travel_Rarely,Sales,8,Master,Low,72,Very High,Married,No,16,3,Good,3,2572
+Male,30,Travel_Rarely,Research & Development,1,Bachelor,Very High,38,High,Married,No,21,7,Better,2,3833
+Female,40,Travel_Frequently,Research & Development,2,College,High,38,Medium,Married,No,24,8,Better,8,4244
+Female,34,Travel_Rarely,Sales,8,College,High,93,Low,Married,No,17,6,Better,3,6500
+Male,42,Travel_Frequently,Research & Development,8,Bachelor,Medium,66,Very High,Divorced,No,13,24,Good,24,18430
+Male,23,Travel_Rarely,Research & Development,6,Bachelor,High,63,Low,Married,Yes,21,1,Better,0,1601
+Male,24,Non-Travel,Research & Development,9,Bachelor,High,60,Medium,Divorced,No,11,1,Better,1,2694
+Female,52,Travel_Rarely,Research & Development,11,Master,Very High,82,High,Married,No,20,9,Better,5,3149
+Male,50,Travel_Rarely,Research & Development,2,Bachelor,High,64,High,Married,No,16,30,Better,4,17639
+Female,29,Travel_Rarely,Research & Development,1,College,Medium,36,Low,Married,Yes,11,1,Better,1,2319
+Male,33,Travel_Rarely,Research & Development,7,Bachelor,High,49,High,Married,No,11,14,Best,13,11691
+Female,33,Travel_Rarely,Sales,16,Bachelor,Low,69,Low,Single,No,15,6,Better,3,5324
+Female,47,Travel_Rarely,Research & Development,2,College,High,33,Very High,Married,Yes,11,26,Good,26,16752
+Female,36,Travel_Rarely,Research & Development,1,Bachelor,High,35,Medium,Married,No,15,10,Better,9,5228
+Male,29,Travel_Rarely,Research & Development,23,College,High,81,High,Married,No,24,10,Better,10,2700
+Male,58,Travel_Rarely,Research & Development,2,Master,Very High,31,Medium,Single,Yes,12,40,Better,31,19246
+Female,35,Travel_Rarely,Research & Development,1,Master,Very High,40,High,Single,No,13,7,Better,2,2506
+Female,42,Travel_Rarely,Research & Development,1,College,Very High,43,Very High,Married,Yes,13,8,Better,4,6062
+Male,28,Travel_Rarely,Research & Development,2,Master,High,46,High,Single,No,17,5,Good,2,4382
+Male,36,Travel_Rarely,Human Resources,13,Bachelor,High,36,Medium,Married,No,13,8,Better,5,2143
+Female,32,Travel_Rarely,Research & Development,4,Bachelor,High,98,High,Married,No,12,14,Better,14,6162
+Male,40,Travel_Frequently,Research & Development,16,Master,Low,51,High,Single,No,14,10,Better,1,5094
+Female,30,Travel_Rarely,Research & Development,2,Bachelor,High,52,Very High,Single,Yes,24,12,Good,0,6877
+Female,45,Travel_Rarely,Research & Development,2,Bachelor,Medium,95,High,Single,No,14,1,Better,1,2274
+Male,42,Travel_Rarely,Research & Development,29,Bachelor,Medium,98,Medium,Married,No,13,10,Good,9,4434
+Male,38,Travel_Frequently,Research & Development,12,Bachelor,Low,45,Low,Divorced,No,15,13,Good,4,6288
+Female,34,Travel_Frequently,Research & Development,16,Master,High,100,Very High,Single,No,16,6,Better,5,2553
+Female,49,Travel_Rarely,Sales,11,Bachelor,High,43,Very High,Married,No,18,9,Best,9,7654
+Male,55,Travel_Rarely,Sales,2,Highschool,High,37,Very High,Single,No,16,12,Good,9,5160
+Male,43,Travel_Rarely,Research & Development,14,College,Medium,94,Low,Married,No,24,22,Better,4,17159
+Male,27,Travel_Rarely,Research & Development,5,Highschool,High,42,Very High,Divorced,Yes,16,9,Better,9,12808
+Male,35,Travel_Rarely,Research & Development,7,Bachelor,High,59,High,Single,No,21,17,Best,8,10221
+Female,28,Travel_Rarely,Sales,2,Master,Medium,81,Medium,Married,Yes,20,8,Better,8,4779
+Male,34,Travel_Rarely,Human Resources,3,College,High,88,Very High,Married,No,19,4,Bad,3,3737
+Female,26,Travel_Frequently,Research & Development,5,College,High,88,High,Married,Yes,14,8,Better,8,2366
+Male,27,Non-Travel,Research & Development,3,Bachelor,Very High,50,Very High,Married,No,11,0,Good,0,1706
+Female,51,Travel_Rarely,Sales,26,Master,Low,66,High,Married,No,14,29,Good,20,16307
+Male,44,Travel_Rarely,Research & Development,4,Bachelor,Very High,50,Medium,Single,No,12,10,Good,5,5933
+Male,25,Travel_Rarely,Research & Development,2,Highschool,Low,65,Low,Single,No,13,6,Good,4,3424
+Male,33,Travel_Rarely,Sales,1,Bachelor,Low,48,Low,Divorced,No,22,9,Better,9,4037
+Female,35,Travel_Rarely,Research & Development,27,Highschool,High,53,Low,Single,No,11,6,Good,6,2559
+Male,36,Travel_Rarely,Sales,1,College,Medium,56,Very High,Married,Yes,14,18,Good,18,6201
+Male,32,Travel_Rarely,Sales,13,Master,Medium,73,Very High,Divorced,No,11,8,Good,5,4403
+Male,30,Travel_Frequently,Research & Development,5,Master,Medium,75,Very High,Divorced,No,12,10,Good,5,3761
+Female,53,Travel_Rarely,Sales,7,College,Low,78,Very High,Married,Yes,18,35,Better,5,10934
+Male,45,Travel_Rarely,Sales,9,Bachelor,Very High,74,Low,Divorced,Yes,12,18,Better,5,10761
+Female,32,Travel_Rarely,Research & Development,8,College,High,91,High,Married,No,12,9,Good,5,5175
+Female,52,Travel_Frequently,Research & Development,25,Master,High,81,Very High,Married,No,22,31,Better,9,13826
+Male,37,Travel_Rarely,Sales,16,Master,Very High,66,High,Divorced,No,19,9,Better,1,6334
+Male,28,Travel_Rarely,Human Resources,8,College,Medium,63,Very High,Divorced,No,13,6,Better,5,4936
+Male,22,Travel_Rarely,Research & Development,1,College,Very High,33,Very High,Married,No,22,4,Bad,2,4775
+Male,44,Travel_Rarely,Research & Development,8,Master,Low,62,Very High,Married,Yes,24,10,Good,3,2818
+Male,42,Travel_Frequently,Research & Development,2,Highschool,Medium,35,Very High,Single,Yes,14,8,Better,2,2515
+Male,36,Travel_Rarely,Human Resources,8,Bachelor,Low,77,Low,Married,No,21,6,Better,5,2342
+Male,25,Travel_Rarely,Sales,3,Highschool,High,98,Low,Married,Yes,18,5,Better,5,4194
+Female,35,Travel_Rarely,Research & Development,9,Bachelor,Very High,66,High,Married,Yes,20,17,Better,17,10685
+Female,35,Travel_Frequently,Research & Development,25,Master,Very High,96,Medium,Divorced,Yes,19,10,Good,10,2022
+Male,32,Non-Travel,Research & Development,1,Bachelor,Very High,61,Very High,Divorced,No,12,4,Better,3,2314
+Male,25,Travel_Rarely,Sales,4,Highschool,High,87,Low,Married,No,12,5,Best,5,4256
+Female,49,Travel_Rarely,Research & Development,1,Bachelor,High,36,Low,Married,No,16,7,Better,4,3580
+Male,24,Non-Travel,Research & Development,4,Highschool,Low,46,Very High,Married,No,17,6,Good,5,3162
+Male,32,Travel_Frequently,Sales,5,College,Medium,48,Medium,Married,No,14,10,Better,10,6524
+Male,38,Travel_Rarely,Sales,9,Bachelor,Medium,98,Medium,Married,No,19,3,Better,2,2899
+Female,42,Travel_Rarely,Research & Development,3,Bachelor,High,95,Very High,Married,Yes,13,17,Good,5,5231
+Male,31,Travel_Rarely,Research & Development,11,Master,Very High,48,Very High,Married,Yes,19,8,Better,6,2356
+Female,29,Travel_Rarely,Sales,1,Bachelor,Medium,48,High,Divorced,Yes,19,5,Better,3,2800
+Male,53,Travel_Rarely,Sales,8,Bachelor,Low,73,Very High,Married,No,14,28,Better,2,11836
+Male,35,Travel_Rarely,Research & Development,25,Bachelor,Very High,78,Medium,Married,No,16,16,Better,13,10903
+Female,37,Travel_Frequently,Sales,21,College,High,54,Very High,Married,No,15,10,Better,5,2973
+Female,53,Travel_Rarely,Research & Development,23,Master,Very High,72,Very High,Single,No,18,33,Better,12,14275
+Female,43,Travel_Frequently,Research & Development,1,Bachelor,Very High,33,Very High,Married,No,13,12,Good,5,5562
+Female,47,Travel_Rarely,Sales,2,College,High,35,Very High,Married,Yes,22,8,Better,7,4537
+Male,37,Non-Travel,Sales,19,College,Low,32,Medium,Single,Yes,13,10,Better,10,7642
+Male,50,Non-Travel,Research & Development,2,Master,Low,98,Low,Divorced,No,11,31,Better,31,17924
+Female,39,Travel_Rarely,Human Resources,2,Bachelor,Very High,42,Very High,Married,No,11,13,Better,5,5204
+Male,33,Travel_Rarely,Human Resources,3,College,Very High,57,Medium,Divorced,Yes,11,7,Best,4,2277
+Male,32,Travel_Rarely,Research & Development,25,Master,Low,87,Very High,Single,Yes,24,1,Bad,1,2795
+Female,29,Travel_Rarely,Research & Development,7,Highschool,Low,62,Very High,Divorced,No,14,8,Better,4,2532
+Male,44,Travel_Rarely,Research & Development,9,College,Medium,61,Low,Married,Yes,13,8,Better,8,2559
+Male,28,Travel_Rarely,Sales,5,Master,Low,98,Very High,Single,No,14,4,Better,4,4908
+Male,58,Travel_Frequently,Research & Development,2,Highschool,Very High,57,Very High,Divorced,Yes,14,3,Good,1,2380
+Female,43,Travel_Rarely,Research & Development,8,Bachelor,Low,55,Medium,Divorced,No,21,4,Best,1,4765
+Female,20,Travel_Rarely,Sales,2,Bachelor,High,49,High,Single,No,13,2,Good,2,2044
+Female,21,Travel_Rarely,Research & Development,18,Highschool,Very High,65,Very High,Single,No,19,1,Good,1,2693
+Male,36,Travel_Rarely,Research & Development,14,Highschool,High,68,Very High,Married,Yes,17,17,Good,16,6586
+Female,47,Travel_Rarely,Sales,2,Master,Very High,65,Very High,Single,Yes,18,3,Good,3,3294
+Female,22,Travel_Rarely,Research & Development,3,Highschool,Medium,34,High,Married,Yes,19,4,Best,3,4171
+Female,41,Travel_Rarely,Research & Development,2,Master,Medium,57,Very High,Divorced,Yes,13,10,Good,7,2778
+Female,28,Travel_Rarely,Research & Development,9,Bachelor,High,77,High,Divorced,No,18,6,Better,2,2377
+Male,39,Travel_Rarely,Research & Development,6,Bachelor,Very High,70,Low,Married,Yes,21,8,Bad,2,2404
+Female,27,Travel_Rarely,Research & Development,4,Bachelor,Medium,76,High,Single,No,19,1,Better,1,2318
+Male,34,Travel_Rarely,Research & Development,10,Bachelor,Medium,83,Medium,Divorced,No,14,1,Better,1,2008
+Female,42,Travel_Rarely,Sales,14,College,High,68,High,Single,No,17,10,Better,5,6244
+Male,33,Travel_Rarely,Research & Development,1,Master,High,100,Low,Single,Yes,11,6,Better,3,2799
+Female,58,Travel_Rarely,Research & Development,5,Bachelor,High,37,Medium,Divorced,Yes,13,24,Better,6,10552
+Male,31,Travel_Rarely,Sales,7,Master,Medium,41,High,Married,No,15,13,Best,7,2329
+Female,35,Travel_Rarely,Research & Development,21,Highschool,Very High,51,Very High,Married,Yes,25,10,Bad,10,4014
+Female,49,Travel_Rarely,Research & Development,8,College,Low,51,Medium,Married,No,11,29,Good,26,7403
+Male,48,Travel_Rarely,Research & Development,20,Master,Very High,51,High,Married,No,17,13,Good,0,2259
+Female,31,Non-Travel,Sales,20,College,Very High,45,High,Married,No,13,9,Good,9,6932
+Male,36,Travel_Rarely,Research & Development,7,Master,Medium,65,Very High,Single,No,18,8,Better,6,4678
+Female,38,Travel_Rarely,Research & Development,1,Bachelor,Very High,80,Low,Married,No,13,15,Better,15,13582
+Female,32,Non-Travel,Research & Development,1,Bachelor,High,70,Medium,Married,No,20,5,Better,3,2332
+Male,25,Travel_Rarely,Sales,19,College,High,36,Medium,Married,Yes,18,1,Better,1,2413
+Male,40,Travel_Rarely,Sales,10,Master,Low,67,Medium,Divorced,No,12,11,Good,1,9705
+Male,26,Travel_Frequently,Sales,1,Bachelor,High,52,Low,Single,No,12,7,Better,7,4294
+Male,41,Travel_Rarely,Research & Development,6,Bachelor,Very High,59,Low,Single,Yes,13,20,Better,18,4721
+Male,36,Travel_Rarely,Research & Development,2,Master,High,79,High,Single,No,21,16,Better,11,2519
+Male,19,Travel_Rarely,Sales,21,Bachelor,Very High,37,Medium,Single,Yes,13,1,Best,1,2121
+Male,20,Travel_Rarely,Research & Development,4,Bachelor,Low,84,Low,Single,No,19,1,Better,1,2973
+Female,31,Travel_Rarely,Research & Development,12,Bachelor,Very High,41,Very High,Married,Yes,11,10,Bad,9,5855
+Male,40,Travel_Frequently,Research & Development,9,Master,Very High,35,Medium,Divorced,Yes,14,3,Better,1,3617
+Female,32,Travel_Rarely,Research & Development,3,Master,High,93,Low,Married,No,12,8,Best,8,6725
+Male,36,Travel_Rarely,Sales,3,Highschool,High,51,Very High,Married,Yes,11,16,Better,16,10325
+Female,33,Travel_Rarely,Research & Development,1,Bachelor,Medium,42,Very High,Single,No,14,6,Better,5,6949
+Male,37,Travel_Rarely,Sales,1,Master,Low,46,High,Married,No,11,17,Bad,14,10609
+Male,45,Non-Travel,Research & Development,4,College,High,57,Medium,Married,No,12,9,Good,9,4447
+Female,29,Travel_Frequently,Sales,20,Bachelor,High,84,Very High,Married,No,15,3,Better,3,2157
+Female,35,Travel_Rarely,Sales,18,Bachelor,High,86,High,Married,No,16,5,Better,5,4601
+Male,52,Travel_Rarely,Research & Development,1,College,Very High,70,Very High,Married,No,15,26,Good,9,17099
+Male,58,Travel_Rarely,Research & Development,2,Bachelor,Very High,51,High,Single,No,24,7,Better,1,2479
+Male,53,Travel_Rarely,Sales,2,College,High,45,High,Divorced,No,13,22,Best,17,14852
+Male,30,Travel_Rarely,Sales,8,College,High,62,High,Divorced,No,11,10,Best,8,7264
+Female,38,Non-Travel,Sales,10,Bachelor,High,85,Very High,Single,Yes,13,6,Better,5,5666
+Male,35,Travel_Rarely,Sales,3,Master,Very High,92,Very High,Divorced,No,13,12,Better,10,7823
+Male,39,Travel_Rarely,Sales,2,Doctor,Low,41,High,Single,No,18,9,Better,8,7880
+Female,40,Non-Travel,Sales,24,Bachelor,Medium,100,Medium,Single,Yes,16,22,Good,1,13194
+Male,47,Travel_Frequently,Research & Development,16,Master,High,64,High,Divorced,Yes,19,20,Best,19,5067
+Male,36,Non-Travel,Sales,8,Master,Low,84,Very High,Divorced,No,13,12,Better,7,5079
+Male,31,Non-Travel,Research & Development,9,College,High,46,Low,Single,Yes,22,4,Better,3,2321
+Male,33,Non-Travel,Sales,17,Bachelor,Very High,38,High,Single,No,11,10,Better,10,17444
+Female,29,Travel_Rarely,Research & Development,10,Bachelor,Very High,92,Low,Single,Yes,20,3,Better,0,2404
+Female,33,Travel_Rarely,Research & Development,13,Highschool,Medium,53,Very High,Single,No,18,5,Better,3,3452
+Female,45,Travel_Rarely,Research & Development,1,Master,Very High,91,Very High,Divorced,No,14,8,Better,5,2270
+Male,50,Travel_Rarely,Research & Development,1,College,Very High,66,Very High,Divorced,No,22,32,Good,5,17399
+Female,33,Travel_Frequently,Research & Development,1,Master,High,84,Medium,Married,Yes,13,6,Better,6,5488
+Male,41,Travel_Frequently,Research & Development,9,Bachelor,Low,64,High,Divorced,No,17,21,Best,18,19419
+Female,27,Travel_Rarely,Research & Development,16,Master,High,37,Medium,Married,No,14,4,Better,2,2811
+Male,45,Non-Travel,Research & Development,23,College,Very High,42,Low,Married,Yes,15,9,Better,9,3633
+Female,47,Travel_Rarely,Sales,4,College,Very High,83,Very High,Single,Yes,17,9,Better,9,4163
+Female,30,Travel_Rarely,Research & Development,22,Bachelor,Low,48,High,Married,Yes,11,7,Better,5,2132
+Male,50,Travel_Rarely,Research & Development,24,Bachelor,Very High,95,High,Married,Yes,18,22,Better,12,13973
+Male,38,Travel_Frequently,Research & Development,10,Highschool,High,66,High,Married,No,17,3,Good,2,2684
+Male,46,Travel_Rarely,Research & Development,7,College,Very High,75,High,Divorced,No,13,13,Better,8,10845
+Female,24,Travel_Rarely,Research & Development,17,Highschool,Very High,41,High,Divorced,No,15,5,Better,4,4377
+Male,35,Travel_Rarely,Research & Development,14,Master,High,39,Medium,Divorced,Yes,24,5,Bad,4,3743
+Female,31,Travel_Frequently,Research & Development,1,Highschool,High,96,Low,Married,No,12,4,Better,4,4148
+Male,18,Non-Travel,Research & Development,5,College,Medium,73,Very High,Single,No,15,0,Better,0,1051
+Female,54,Travel_Rarely,Research & Development,17,Bachelor,High,56,High,Married,No,11,22,Better,10,10739
+Female,35,Travel_Rarely,Research & Development,25,Master,High,57,High,Divorced,Yes,11,16,Good,16,10388
+Female,30,Travel_Rarely,Research & Development,8,College,Medium,73,Low,Married,Yes,12,9,Good,8,11416
+Female,20,Travel_Rarely,Research & Development,11,Bachelor,Very High,98,Low,Single,Yes,15,1,Better,1,2600
+Female,30,Travel_Frequently,Research & Development,5,Bachelor,Medium,60,Medium,Single,No,17,4,Better,3,2422
+Male,26,Travel_Rarely,Research & Development,2,College,Very High,32,Very High,Married,No,12,8,Better,8,5472
+Male,22,Travel_Rarely,Research & Development,8,Highschool,Medium,94,Low,Married,No,15,4,Good,4,2451
+Male,48,Travel_Rarely,Research & Development,6,Bachelor,Low,97,High,Single,No,13,19,Better,2,4240
+Male,48,Travel_Rarely,Research & Development,4,Master,High,78,High,Single,No,14,27,Better,15,10999
+Female,41,Travel_Rarely,Research & Development,7,College,Very High,42,High,Single,No,14,8,Better,2,5003
+Female,39,Travel_Rarely,Research & Development,1,Highschool,Very High,65,Very High,Married,No,16,21,Better,21,12742
+Female,27,Travel_Rarely,Research & Development,2,Master,Low,47,Very High,Married,No,18,4,Better,3,4227
+Male,35,Travel_Rarely,Research & Development,10,Bachelor,Medium,45,Very High,Divorced,No,20,3,Good,3,3917
+Male,42,Travel_Rarely,Sales,5,College,Very High,90,High,Married,No,13,21,Best,1,18303
+Male,50,Travel_Rarely,Research & Development,9,Bachelor,Low,64,Very High,Married,No,18,8,Better,1,2380
+Female,59,Travel_Rarely,Research & Development,2,Bachelor,High,69,Very High,Single,Yes,13,30,Better,5,13726
+Female,37,Travel_Rarely,Research & Development,11,College,Low,61,Medium,Married,No,15,15,Bad,1,4777
+Male,55,Travel_Frequently,Research & Development,18,Master,High,62,Medium,Married,Yes,14,17,Better,8,6385
+Female,41,Non-Travel,Research & Development,7,Highschool,Medium,55,High,Divorced,No,22,21,Better,21,19973
+Male,38,Travel_Rarely,Sales,3,Master,Medium,42,Very High,Single,Yes,12,19,Better,1,6861
+Male,26,Non-Travel,Sales,29,College,Medium,79,Low,Single,No,18,7,Better,2,4969
+Female,52,Travel_Rarely,Sales,2,Highschool,Low,57,Very High,Married,No,15,33,Better,32,19845
+Female,44,Travel_Rarely,Sales,28,Bachelor,Very High,53,Very High,Married,Yes,18,23,Better,12,13320
+Female,50,Non-Travel,Sales,1,Bachelor,Very High,95,High,Married,No,12,19,Better,18,6347
+Female,36,Travel_Rarely,Research & Development,16,Master,High,43,Low,Single,No,16,18,Better,17,2743
+Female,39,Travel_Frequently,Research & Development,22,Bachelor,Very High,82,Low,Single,Yes,13,21,Better,21,10880
+Female,33,Non-Travel,Sales,8,Highschool,Medium,88,Very High,Single,No,19,3,Good,2,2342
+Female,45,Travel_Rarely,Sales,11,College,Very High,90,Very High,Married,No,13,26,Best,9,17650
+Female,32,Non-Travel,Research & Development,29,Master,Very High,69,High,Single,No,12,10,Better,8,4025
+Male,34,Travel_Rarely,Sales,1,Master,Medium,75,Very High,Divorced,No,11,16,Good,15,9725
+Male,59,Travel_Rarely,Sales,1,College,Medium,66,Very High,Married,Yes,14,14,Bad,6,11904
+Male,45,Travel_Rarely,Human Resources,24,Master,Medium,36,Medium,Single,No,16,6,Better,6,2177
+Female,53,Travel_Frequently,Sales,2,Bachelor,High,38,Medium,Married,No,12,30,Better,15,7525
+Male,36,Travel_Rarely,Research & Development,15,Bachelor,Low,81,High,Divorced,No,14,9,Good,1,4834
+Male,26,Travel_Frequently,Research & Development,2,Bachelor,Low,57,Low,Married,Yes,14,6,Better,3,2042
+Female,34,Travel_Rarely,Sales,10,Master,High,87,High,Married,Yes,19,1,Better,1,2220
+Male,28,Travel_Rarely,Sales,10,Highschool,Very High,74,Medium,Married,No,22,1,Better,1,1052
+Male,38,Travel_Frequently,Research & Development,3,Master,High,44,High,Married,No,16,8,Better,2,2821
+Male,50,Travel_Rarely,Research & Development,2,Master,Medium,62,High,Married,Yes,11,29,Good,8,19237
+Female,37,Travel_Rarely,Research & Development,3,Bachelor,Very High,35,Medium,Single,No,15,8,Good,4,4107
+Male,40,Travel_Rarely,Sales,26,Bachelor,High,74,Low,Married,No,14,8,Good,7,8396
+Female,26,Travel_Frequently,Research & Development,1,Highschool,Low,66,High,Divorced,No,13,5,Better,5,2007
+Male,46,Travel_Rarely,Research & Development,1,Master,Very High,40,Very High,Divorced,No,17,23,Better,2,19627
+Female,54,Travel_Rarely,Sales,2,Master,High,41,High,Married,No,11,13,Better,9,10686
+Female,56,Travel_Frequently,Research & Development,9,Bachelor,Low,63,High,Married,No,19,18,Better,5,2942
+Female,36,Travel_Rarely,Research & Development,12,Doctor,Very High,51,Very High,Single,No,11,15,Good,14,8858
+Male,55,Non-Travel,Research & Development,2,Highschool,High,40,Low,Single,No,15,31,Best,9,16756
+Male,43,Travel_Rarely,Sales,25,Bachelor,High,79,Very High,Divorced,No,13,18,Better,1,10798
+Female,20,Travel_Frequently,Sales,9,Bachelor,Very High,54,Very High,Single,Yes,14,2,Better,2,2323
+Female,21,Travel_Rarely,Research & Development,10,Bachelor,High,36,Low,Single,No,13,1,Good,1,1416
+Female,46,Travel_Rarely,Research & Development,8,Master,Very High,74,Low,Divorced,Yes,23,19,Better,16,4615
+Male,51,Travel_Rarely,Research & Development,4,Master,Low,34,High,Married,Yes,12,18,Best,10,2461
+Male,28,Non-Travel,Research & Development,24,College,Medium,72,Low,Single,No,12,10,Good,10,8722
+Male,26,Travel_Rarely,Research & Development,1,College,Low,59,Low,Married,No,16,6,Better,5,3955
+Male,30,Travel_Rarely,Research & Development,20,Bachelor,High,85,Low,Married,No,15,7,Good,6,9957
+Female,41,Travel_Rarely,Research & Development,7,College,Medium,43,High,Married,No,13,10,Better,10,3376
+Female,38,Travel_Rarely,Research & Development,17,Highschool,High,65,High,Married,No,18,20,Good,19,8823
+Male,40,Travel_Rarely,Research & Development,20,Master,Low,61,Very High,Married,No,20,14,Better,11,10322
+Male,27,Non-Travel,Research & Development,8,Doctor,Low,87,High,Married,No,19,3,Better,3,4621
+Male,55,Travel_Frequently,Research & Development,2,Highschool,Very High,65,Medium,Married,No,18,23,Better,3,10976
+Female,28,Travel_Rarely,Research & Development,10,Bachelor,High,59,High,Single,No,13,10,Best,8,3660
+Male,44,Travel_Rarely,Human Resources,1,College,Medium,91,Low,Married,No,14,24,Better,20,10482
+Male,33,Travel_Rarely,Research & Development,5,Bachelor,Very High,34,Very High,Divorced,No,15,9,Better,3,7119
+Male,35,Travel_Rarely,Sales,4,Bachelor,Very High,86,Low,Single,Yes,22,9,Better,8,9582
+Female,33,Travel_Frequently,Research & Development,29,Master,Low,54,High,Single,No,22,14,Better,13,4508
+Male,28,Travel_Rarely,Research & Development,15,College,Low,50,High,Divorced,No,16,4,Good,4,2207
+Male,34,Travel_Frequently,Research & Development,3,Highschool,Low,45,Very High,Single,No,17,7,Good,6,7756
+Female,37,Travel_Rarely,Sales,10,Master,Very High,88,Very High,Divorced,Yes,14,8,Better,1,6694
+Male,25,Travel_Rarely,Research & Development,4,Highschool,Very High,32,Very High,Married,Yes,15,7,Best,7,3691
+Male,26,Travel_Rarely,Research & Development,21,Bachelor,Low,37,High,Divorced,No,20,1,Good,1,2377
+Male,33,Travel_Rarely,Research & Development,25,Bachelor,Low,55,Medium,Single,Yes,20,5,Better,2,2313
+Male,42,Travel_Rarely,Research & Development,2,College,Very High,35,Low,Married,No,17,23,Better,22,17665
+Male,28,Travel_Frequently,Research & Development,1,Bachelor,Low,45,Medium,Divorced,No,15,1,Better,1,2596
+Male,50,Travel_Frequently,Sales,1,Master,Very High,81,High,Single,Yes,14,5,Better,0,4728
+Female,33,Travel_Frequently,Sales,7,Bachelor,Very High,30,Medium,Married,No,17,4,Better,3,4302
+Male,34,Non-Travel,Research & Development,3,Master,High,40,Very High,Married,No,17,6,Better,0,2979
+Male,48,Non-Travel,Research & Development,1,Master,Low,35,Very High,Single,No,22,27,Good,5,16885
+Female,45,Non-Travel,Sales,9,Master,Medium,65,High,Married,No,13,15,Better,15,5593
+Male,52,Travel_Rarely,Research & Development,7,Master,Medium,87,Medium,Single,No,19,18,Better,8,10445
+Male,38,Travel_Rarely,Sales,10,Master,High,73,High,Divorced,Yes,14,9,Better,8,8740
+Female,29,Travel_Rarely,Research & Development,28,Master,High,93,Very High,Divorced,No,22,11,Better,7,2514
+Female,28,Travel_Rarely,Research & Development,3,Bachelor,Very High,93,Medium,Divorced,No,17,10,Good,9,7655
+Male,46,Travel_Rarely,Sales,3,Highschool,Low,52,High,Married,No,12,23,Better,12,17465
+Male,38,Travel_Rarely,Sales,2,College,Very High,32,Medium,Single,No,16,10,Better,1,7351
+Female,43,Travel_Frequently,Research & Development,27,Bachelor,High,83,Low,Married,No,11,18,Better,8,10820
+Male,39,Travel_Frequently,Research & Development,2,Bachelor,Low,84,Very High,Divorced,No,11,21,Better,18,12169
+Male,40,Travel_Rarely,Research & Development,14,Bachelor,High,44,High,Single,No,14,21,Best,20,19626
+Female,21,Travel_Rarely,Research & Development,1,Highschool,Very High,70,Medium,Single,Yes,11,2,Best,2,2070
+Male,39,Non-Travel,Research & Development,9,Bachelor,High,70,Medium,Single,No,15,9,Good,5,6782
+Male,36,Non-Travel,Research & Development,18,Master,Low,78,Very High,Single,No,20,18,Better,11,7779
+Male,31,Travel_Frequently,Sales,20,Bachelor,High,67,Very High,Married,No,12,3,Better,2,2791
+Male,28,Travel_Rarely,Research & Development,2,Highschool,Low,67,Medium,Married,No,17,6,Bad,5,3201
+Male,35,Travel_Frequently,Sales,11,College,Very High,54,Very High,Divorced,No,11,5,Better,5,4968
+Male,49,Travel_Rarely,Sales,8,Master,Very High,56,Medium,Married,No,17,22,Better,9,13120
+Male,34,Travel_Frequently,Research & Development,2,College,Very High,95,High,Single,No,11,5,Good,3,4033
+Female,29,Travel_Frequently,Research & Development,10,Bachelor,Very High,61,Medium,Divorced,No,14,8,Good,7,3291
+Male,42,Travel_Rarely,Research & Development,29,Bachelor,Medium,56,Very High,Single,No,19,16,Better,1,4272
+Male,29,Travel_Rarely,Research & Development,8,Highschool,Medium,79,Very High,Married,Yes,15,10,Good,10,5056
+Male,38,Travel_Rarely,Human Resources,1,Bachelor,High,37,High,Married,No,13,7,Best,7,2844
+Male,28,Travel_Frequently,Research & Development,6,Bachelor,High,39,High,Divorced,Yes,14,3,Better,3,2703
+Male,18,Non-Travel,Research & Development,8,Highschool,High,80,High,Single,No,12,0,Better,0,1904
+Female,33,Travel_Rarely,Sales,9,Master,Low,77,Low,Single,Yes,17,6,Better,5,8224
+Male,41,Travel_Rarely,Research & Development,12,Master,Medium,46,Very High,Married,Yes,11,6,Better,1,4766
+Male,31,Travel_Frequently,Research & Development,15,Bachelor,High,72,High,Married,No,12,2,Good,2,2610
+Female,37,Travel_Rarely,Research & Development,25,College,High,52,Very High,Divorced,No,13,9,Better,6,5731
+Male,27,Travel_Rarely,Research & Development,6,Bachelor,Very High,55,High,Married,No,13,4,Better,4,2539
+Female,34,Travel_Rarely,Sales,9,Highschool,Medium,70,High,Married,No,20,6,Good,6,5714
+Male,35,Travel_Rarely,Human Resources,8,Master,High,100,High,Single,No,17,6,Bad,5,4323
+Female,29,Travel_Rarely,Sales,23,Highschool,Very High,45,Low,Married,No,13,11,Bad,11,7336
+Female,40,Travel_Frequently,Research & Development,9,Master,Medium,88,High,Single,No,17,20,Good,18,13499
+Male,42,Travel_Frequently,Sales,12,Bachelor,High,44,Low,Single,Yes,12,22,Good,21,13758
+Male,42,Travel_Rarely,Sales,4,Master,Medium,45,Low,Single,No,13,9,Best,6,5155
+Male,35,Travel_Rarely,Research & Development,1,Master,Very High,58,High,Married,No,12,10,Better,8,2258
+Male,24,Travel_Rarely,Research & Development,24,Bachelor,Very High,49,Medium,Single,No,22,6,Better,4,3597
+Female,28,Travel_Rarely,Research & Development,12,Highschool,High,79,Very High,Married,Yes,11,1,Good,1,2515
+Male,26,Travel_Rarely,Research & Development,3,Master,Low,82,Very High,Married,No,22,8,Better,8,4420
+Male,30,Travel_Rarely,Sales,10,Bachelor,High,72,High,Married,No,18,10,Better,10,6578
+Female,40,Travel_Frequently,Research & Development,26,College,High,92,Very High,Married,Yes,13,16,Bad,1,4422
+Male,35,Travel_Rarely,Research & Development,2,Bachelor,High,44,Medium,Divorced,No,18,15,Best,7,10274
+Male,34,Travel_Frequently,Research & Development,1,Bachelor,Very High,97,Low,Single,No,20,14,Better,13,5343
+Male,35,Travel_Frequently,Research & Development,4,Master,Very High,47,Very High,Married,No,13,2,Best,2,2376
+Female,43,Travel_Rarely,Sales,9,Bachelor,Low,85,High,Single,No,13,7,Good,4,5346
+Female,32,Non-Travel,Sales,2,Highschool,High,76,Low,Divorced,No,12,1,Better,1,2827
+Female,56,Travel_Rarely,Research & Development,4,Master,Very High,92,Low,Divorced,No,13,28,Better,5,19943
+Female,29,Travel_Rarely,Research & Development,6,Highschool,Medium,54,Very High,Married,No,13,10,Better,10,3131
+Male,19,Travel_Rarely,Research & Development,9,College,High,54,Low,Single,No,25,1,Better,1,2552
+Female,45,Travel_Rarely,Research & Development,7,Bachelor,Low,83,High,Married,Yes,19,7,Good,3,4477
+Female,37,Travel_Rarely,Research & Development,1,Bachelor,Very High,56,Very High,Married,No,13,14,Good,14,6474
+Male,20,Travel_Rarely,Research & Development,3,Bachelor,Low,87,High,Single,No,12,2,Good,2,3033
+Male,44,Travel_Rarely,Research & Development,10,Master,High,96,High,Single,Yes,11,6,Better,6,2936
+Female,53,Travel_Rarely,Research & Development,7,College,Very High,50,High,Divorced,No,18,26,Better,7,18606
+Female,29,Travel_Rarely,Research & Development,15,Highschool,Medium,69,Very High,Married,Yes,18,6,Good,5,2168
+Male,22,Travel_Frequently,Research & Development,3,Master,High,48,Very High,Married,Yes,11,1,Better,0,2853
+Female,46,Travel_Rarely,Sales,2,Bachelor,High,69,Low,Married,No,23,28,Better,26,17048
+Male,44,Non-Travel,Research & Development,17,Bachelor,Very High,74,High,Single,No,13,6,Better,0,2290
+Male,33,Travel_Rarely,Human Resources,2,Bachelor,Medium,99,High,Married,No,13,5,Better,5,3600
+Male,41,Non-Travel,Research & Development,5,College,Low,95,Low,Divorced,No,17,5,Bad,1,2107
+Male,30,Travel_Rarely,Sales,29,Master,High,61,Low,Divorced,No,19,8,Better,4,4115
+Male,40,Travel_Frequently,Sales,2,Master,Medium,62,Medium,Married,No,12,5,Better,0,4327
+Female,50,Travel_Frequently,Research & Development,2,Bachelor,Very High,30,Low,Married,No,22,32,Better,2,17856
+Male,28,Travel_Rarely,Research & Development,19,Master,Very High,78,Low,Married,No,12,6,Better,6,3196
+Male,46,Travel_Rarely,Research & Development,15,College,Very High,52,Medium,Married,No,11,25,Better,4,19081
+Male,35,Travel_Rarely,Sales,17,Master,High,94,Low,Married,Yes,15,15,Better,7,8966
+Female,24,Travel_Rarely,Research & Development,17,College,Very High,97,Medium,Married,No,13,1,Bad,1,2210
+Female,33,Travel_Frequently,Sales,25,Bachelor,Medium,82,High,Married,No,12,10,Good,10,4539
+Male,36,Travel_Rarely,Research & Development,6,Master,High,60,High,Divorced,No,14,7,Better,7,2741
+Male,30,Travel_Rarely,Research & Development,7,Master,High,49,High,Divorced,No,13,10,Good,10,3491
+Male,44,Travel_Rarely,Research & Development,29,Master,Very High,32,Very High,Single,No,25,20,Better,20,4541
+Male,20,Travel_Rarely,Sales,21,Bachelor,High,43,Very High,Single,No,17,2,Better,2,2678
+Male,46,Travel_Rarely,Research & Development,2,Master,Very High,60,Very High,Divorced,No,11,12,Good,6,7379
+Male,42,Non-Travel,Human Resources,2,Doctor,Very High,79,Low,Married,No,16,10,Best,4,6272
+Male,60,Travel_Rarely,Sales,7,Master,Medium,52,Very High,Divorced,Yes,18,12,Better,11,5220
+Female,32,Travel_Frequently,Research & Development,13,Bachelor,High,77,Medium,Married,No,20,2,Better,2,2743
+Female,32,Travel_Frequently,Research & Development,2,College,Very High,38,High,Single,Yes,14,10,Better,8,4998
+Female,36,Travel_Rarely,Research & Development,1,Bachelor,High,77,Low,Divorced,Yes,21,17,Better,7,10252
+Male,33,Travel_Rarely,Research & Development,9,Bachelor,Low,60,Very High,Married,No,13,15,Better,14,2781
+Female,40,Travel_Rarely,Sales,10,Bachelor,Medium,84,Medium,Divorced,No,12,7,Best,5,6852
+Male,25,Travel_Rarely,Sales,10,Master,High,57,Very High,Single,No,14,5,Better,4,4950
+Male,30,Travel_Rarely,Research & Development,1,Bachelor,Very High,63,Medium,Married,Yes,21,12,Better,11,3579
+Female,42,Travel_Frequently,Research & Development,26,Doctor,Low,60,Low,Married,Yes,17,20,Better,1,13191
+Female,35,Non-Travel,Sales,8,College,High,78,Very High,Married,Yes,11,16,Good,13,10377
+Male,27,Travel_Rarely,Research & Development,14,Bachelor,Low,42,Low,Married,Yes,14,9,Good,9,2235
+Female,54,Travel_Frequently,Research & Development,1,Master,Very High,53,High,Divorced,No,17,33,Bad,5,10502
+Female,44,Travel_Rarely,Research & Development,2,Highschool,Low,72,Very High,Married,No,13,10,Better,10,2011
+Female,19,Non-Travel,Research & Development,10,Bachelor,Low,96,Medium,Single,Yes,25,1,Best,1,1859
+Female,29,Travel_Rarely,Research & Development,1,Bachelor,Low,97,Very High,Divorced,No,15,3,Better,3,3760
+Male,54,Travel_Rarely,Research & Development,3,Bachelor,Very High,85,Very High,Married,No,14,36,Better,10,17779
+Male,31,Travel_Rarely,Research & Development,11,College,High,80,Low,Married,Yes,12,6,Good,6,6833
+Female,31,Travel_Rarely,Research & Development,24,Bachelor,High,96,Low,Single,No,19,10,Better,10,6812
+Female,59,Travel_Rarely,Sales,3,Bachelor,High,48,Very High,Single,No,17,13,Better,6,5171
+Male,43,Travel_Rarely,Research & Development,3,Bachelor,High,96,Very High,Married,No,14,25,Better,8,19740
+Male,49,Travel_Rarely,Research & Development,4,College,Low,85,High,Married,No,13,23,Best,1,18711
+Male,36,Travel_Frequently,Research & Development,3,Bachelor,High,46,Medium,Married,No,12,12,Good,11,3692
+Male,48,Travel_Rarely,Research & Development,2,College,Very High,76,Medium,Single,No,11,7,Good,1,2559
+Male,27,Travel_Rarely,Research & Development,4,College,Low,76,High,Divorced,No,11,5,Better,5,2517
+Male,29,Travel_Rarely,Research & Development,7,Bachelor,High,82,Very High,Divorced,Yes,11,6,Better,6,6623
+Male,48,Travel_Rarely,Research & Development,1,Bachelor,Very High,76,Very High,Single,No,12,25,Best,1,18265
+Female,29,Travel_Rarely,Research & Development,1,Bachelor,Very High,87,Very High,Divorced,No,14,9,Good,7,16124
+Female,34,Travel_Rarely,Research & Development,20,Bachelor,High,89,High,Married,No,17,2,Good,1,2585
+Male,44,Travel_Rarely,Sales,5,Bachelor,Medium,88,Medium,Married,No,11,26,Better,22,18213
+Male,33,Travel_Rarely,Sales,10,Doctor,Very High,82,High,Divorced,Yes,14,10,Better,9,8380
+Female,19,Travel_Rarely,Research & Development,25,Bachelor,Medium,57,Very High,Single,Yes,12,1,Better,1,2994
+Male,23,Travel_Rarely,Research & Development,1,College,Very High,47,High,Married,No,22,1,Better,1,1223
+Male,25,Travel_Frequently,Sales,24,Highschool,High,73,Very High,Single,Yes,14,1,Better,1,1118
+Male,26,Travel_Rarely,Research & Development,4,College,High,53,Very High,Single,Yes,20,8,Good,8,2875
+Female,45,Travel_Rarely,Sales,2,Bachelor,Low,94,Medium,Single,Yes,16,26,Better,24,18824
+Male,55,Non-Travel,Research & Development,8,Highschool,Very High,37,Medium,Divorced,Yes,15,34,Better,33,13577
+Female,21,Travel_Frequently,Research & Development,10,College,Low,45,High,Single,No,20,2,Bad,2,2625
+Female,46,Travel_Rarely,Sales,4,College,Very High,33,Medium,Married,No,14,26,Better,11,18789
+Female,34,Travel_Rarely,Sales,2,Bachelor,High,86,Low,Single,Yes,12,4,Better,3,4538
+Male,51,Travel_Frequently,Sales,9,Bachelor,Very High,83,Medium,Divorced,Yes,24,31,Good,29,19847
+Male,59,Travel_Rarely,Research & Development,18,Master,Very High,67,Very High,Single,No,12,25,Good,9,10512
+Female,34,Travel_Frequently,Research & Development,19,Bachelor,High,46,Medium,Divorced,No,13,15,Best,11,4444
+Male,28,Travel_Frequently,Research & Development,1,Master,Very High,44,High,Single,Yes,11,5,Good,4,2154
+Male,44,Travel_Rarely,Research & Development,4,College,High,92,Low,Divorced,No,14,26,Good,25,19190
+Male,34,Travel_Frequently,Human Resources,11,Bachelor,High,56,Medium,Married,No,11,14,Best,10,4490
+Male,35,Travel_Rarely,Research & Development,6,Highschool,High,66,High,Married,Yes,14,4,Better,3,3506
+Female,42,Travel_Rarely,Research & Development,7,Master,Medium,78,Medium,Married,Yes,16,18,Better,1,2372
+Female,43,Travel_Rarely,Sales,4,Master,Very High,56,Very High,Single,No,14,23,Best,21,10231
+Female,36,Travel_Rarely,Research & Development,2,Master,High,53,Medium,Single,Yes,11,18,Better,16,5410
+Female,44,Travel_Rarely,Research & Development,15,Bachelor,Low,73,Very High,Married,No,11,10,Better,10,7978
+Male,28,Travel_Frequently,Research & Development,2,Bachelor,Very High,52,Very High,Married,Yes,12,2,Better,2,3867
+Female,51,Travel_Frequently,Research & Development,6,College,Medium,40,High,Single,No,14,8,Good,7,2838
+Female,30,Non-Travel,Research & Development,9,College,High,72,High,Single,Yes,18,10,Better,8,4695
+Female,29,Travel_Rarely,Research & Development,7,Bachelor,Medium,39,High,Divorced,Yes,13,10,Better,7,3339
+Male,28,Travel_Rarely,Research & Development,1,Bachelor,Very High,84,Low,Single,No,11,5,Good,3,2080
+Female,25,Travel_Rarely,Research & Development,1,Bachelor,Very High,40,Medium,Single,No,18,2,Good,2,2096
+Male,32,Travel_Rarely,Sales,8,Bachelor,High,56,Very High,Married,No,15,10,Best,10,6209
+Female,45,Travel_Frequently,Research & Development,25,Bachelor,Medium,83,Medium,Single,No,22,22,Better,0,18061
+Female,39,Travel_Rarely,Research & Development,13,Master,High,94,Medium,Divorced,Yes,13,21,Better,19,17123
+Male,58,Travel_Rarely,Research & Development,23,Master,Low,88,High,Divorced,No,12,2,Better,2,2372
+Male,32,Travel_Rarely,Research & Development,7,College,Very High,79,High,Married,No,18,10,Better,10,4883
+Male,39,Travel_Rarely,Research & Development,23,Bachelor,High,93,Low,Single,No,13,6,Better,5,3904
+Female,30,Travel_Rarely,Research & Development,6,Bachelor,Low,48,Very High,Married,No,12,10,Better,9,4627
+Female,36,Travel_Rarely,Research & Development,10,Master,Very High,63,High,Married,No,12,10,Better,7,7094
+Female,46,Travel_Rarely,Human Resources,1,College,Very High,44,Low,Single,No,12,10,Best,7,3423
+Female,28,Non-Travel,Research & Development,1,Bachelor,High,55,Very High,Married,No,11,10,Better,9,6674
+Female,50,Travel_Rarely,Research & Development,28,Bachelor,Very High,43,Low,Married,Yes,11,25,Better,3,16880
+Male,40,Travel_Rarely,Sales,25,Master,Very High,57,Medium,Single,Yes,12,9,Better,5,9094
+Male,52,Travel_Rarely,Sales,5,Bachelor,Medium,64,Medium,Single,Yes,19,10,Good,8,8446
+Female,30,Travel_Rarely,Research & Development,17,Master,Medium,95,Low,Married,Yes,23,9,Better,9,11916
+Male,39,Travel_Rarely,Research & Development,18,College,Low,32,High,Single,No,11,9,Better,8,4534
+Female,31,Non-Travel,Sales,2,Master,Very High,57,High,Divorced,Yes,19,10,Good,10,9852
+Male,41,Non-Travel,Sales,10,College,High,40,Medium,Single,No,13,19,Better,19,6151
+Female,31,Travel_Frequently,Sales,1,Bachelor,Very High,54,Medium,Single,Yes,11,3,Best,3,2302
+Male,44,Travel_Rarely,Research & Development,3,Bachelor,Low,89,Low,Married,No,12,10,Best,3,2362
+Male,42,Non-Travel,Research & Development,2,Highschool,High,37,High,Married,Yes,13,21,Good,20,17861
+Female,55,Travel_Rarely,Research & Development,2,College,Very High,58,High,Married,No,14,23,Better,19,19187
+Male,56,Travel_Rarely,Human Resources,8,Master,Very High,99,Medium,Single,No,14,36,Better,7,19717
+Male,40,Non-Travel,Research & Development,16,College,High,74,High,Divorced,No,16,6,Better,4,3544
+Male,34,Travel_Rarely,Research & Development,9,Bachelor,Very High,86,Very High,Divorced,No,11,10,Good,9,8500
+Male,40,Travel_Rarely,Research & Development,2,Bachelor,High,98,Very High,Single,No,13,9,Better,9,4661
+Female,41,Travel_Frequently,Sales,1,Bachelor,High,66,Low,Divorced,No,17,10,Better,9,4103
+Male,35,Travel_Frequently,Research & Development,4,Master,High,87,High,Single,Yes,11,9,Better,9,4249
+Male,51,Travel_Rarely,Human Resources,5,Bachelor,High,84,Medium,Divorced,Yes,11,33,Better,33,14026
+Female,38,Travel_Rarely,Sales,2,College,Medium,31,Low,Divorced,No,15,11,Better,7,6893
+Female,34,Travel_Rarely,Sales,15,College,High,66,Low,Single,No,12,10,Best,10,6125
+Male,25,Travel_Rarely,Research & Development,19,Highschool,Very High,67,Very High,Married,No,11,7,Good,3,3669
+Female,58,Travel_Rarely,Research & Development,7,Master,High,53,Low,Married,Yes,14,31,Good,10,10008
+Male,40,Travel_Rarely,Research & Development,1,Master,Medium,88,Medium,Married,No,22,7,Better,4,2387
+Female,36,Travel_Frequently,Sales,7,Bachelor,Low,83,Low,Married,No,16,17,Good,15,4639
+Male,48,Travel_Rarely,Research & Development,4,Bachelor,Very High,54,Very High,Single,No,11,11,Better,10,7898
+Female,27,Travel_Rarely,Sales,11,Bachelor,High,98,Very High,Married,No,14,5,Better,1,2534
+Female,51,Travel_Rarely,Research & Development,11,College,Very High,82,Medium,Single,No,16,29,Good,5,13142
+Female,18,Non-Travel,Research & Development,1,Bachelor,Very High,97,Very High,Single,No,15,0,Best,0,1611
+Female,35,Travel_Rarely,Research & Development,1,Bachelor,Very High,60,Very High,Married,No,12,10,Better,9,5363
+Male,27,Travel_Frequently,Sales,2,Highschool,Very High,43,Very High,Single,No,20,8,Better,6,5071
+Male,55,Travel_Rarely,Sales,13,Master,Low,85,High,Single,Yes,17,24,Good,19,13695
+Male,56,Travel_Rarely,Research & Development,23,Bachelor,Very High,68,Medium,Married,Yes,12,33,Better,19,13402
+Female,34,Non-Travel,Research & Development,26,Highschool,Low,92,High,Divorced,No,20,5,Better,5,2029
+Female,40,Travel_Rarely,Research & Development,2,Highschool,Medium,89,High,Divorced,No,20,15,Better,12,6377
+Male,34,Travel_Rarely,Research & Development,29,Bachelor,Medium,86,High,Married,No,13,10,Better,8,5429
+Female,31,Travel_Frequently,Sales,2,Bachelor,High,90,Very High,Single,No,14,3,Best,1,2785
+Female,35,Travel_Frequently,Sales,18,Master,Very High,67,High,Married,Yes,18,5,Good,4,4614
+Male,38,Travel_Frequently,Research & Development,7,Bachelor,Very High,57,High,Divorced,No,11,4,Better,4,2610
+Female,34,Travel_Rarely,Research & Development,2,Master,High,98,Very High,Single,No,11,14,Best,14,6687
+Male,28,Travel_Rarely,Sales,26,Bachelor,High,48,Low,Married,No,11,5,Better,5,4724
+Male,31,Travel_Rarely,Research & Development,22,Master,Very High,98,High,Married,Yes,15,10,Good,10,6179
+Male,39,Travel_Rarely,Sales,21,Master,Low,44,Very High,Married,Yes,12,8,Best,5,6120
+Male,51,Travel_Frequently,Sales,2,Bachelor,Medium,52,Medium,Married,No,11,14,Better,4,10596
+Female,41,Travel_Frequently,Research & Development,22,Bachelor,Very High,75,Very High,Divorced,Yes,14,12,Good,6,5467
+Male,37,Travel_Rarely,Research & Development,4,Highschool,High,54,High,Married,Yes,15,8,Better,6,2996
+Male,33,Travel_Frequently,Sales,5,Highschool,Medium,61,Very High,Married,No,13,8,Best,5,9998
+Male,32,Travel_Rarely,Sales,2,Highschool,High,36,Medium,Married,Yes,13,4,Good,3,4078
+Male,39,Non-Travel,Research & Development,25,College,High,71,High,Married,No,21,13,Better,6,10920
+Male,25,Travel_Rarely,Sales,18,Highschool,Low,93,High,Married,No,11,6,Good,3,6232
+Female,52,Travel_Frequently,Research & Development,28,College,Very High,59,High,Married,Yes,11,24,Good,5,13247
+Female,43,Travel_Rarely,Research & Development,6,Bachelor,Low,73,High,Single,Yes,14,20,Bad,20,4081
+Female,27,Travel_Rarely,Sales,10,Bachelor,Very High,98,Very High,Married,Yes,11,6,Better,6,5769
+Female,27,Travel_Rarely,Research & Development,17,Master,Very High,51,High,Single,Yes,13,8,Better,8,2394
+Male,26,Travel_Rarely,Research & Development,2,Highschool,Low,36,Very High,Single,No,12,5,Better,4,3904
+Female,42,Travel_Rarely,Human Resources,10,Bachelor,High,31,Low,Married,No,14,21,Better,20,16799
+Female,52,Travel_Rarely,Research & Development,8,Master,High,54,Low,Married,No,13,12,Bad,5,2950
+Female,37,Travel_Rarely,Research & Development,11,Bachelor,Low,94,High,Single,No,18,8,Better,3,3629
+Male,35,Travel_Frequently,Research & Development,18,College,High,60,Very High,Single,No,11,10,Better,2,9362
+Male,25,Travel_Rarely,Research & Development,1,Bachelor,Low,81,Very High,Married,No,11,7,Good,3,3229
+Male,26,Travel_Rarely,Research & Development,7,Bachelor,High,100,Low,Single,No,12,8,Better,7,3578
+Male,29,Travel_Rarely,Human Resources,17,Bachelor,Medium,51,Low,Single,No,13,10,Good,10,7988
+Male,49,Travel_Frequently,Research & Development,28,College,Low,97,Low,Single,No,20,20,Better,4,4284
+Female,29,Travel_Frequently,Research & Development,14,Highschool,High,84,Very High,Single,Yes,12,9,Better,8,7553
+Female,54,Travel_Rarely,Research & Development,1,Bachelor,Very High,54,Very High,Single,No,19,29,Good,20,17328
+Female,58,Travel_Rarely,Research & Development,1,Bachelor,Very High,76,Low,Married,Yes,21,32,Better,9,19701
+Male,55,Travel_Rarely,Research & Development,1,Master,Medium,81,Very High,Divorced,No,13,31,Best,7,14732
+Female,36,Travel_Rarely,Sales,3,Master,Low,99,Medium,Single,Yes,16,15,Better,5,9278
+Female,31,Travel_Frequently,Sales,1,Master,Medium,50,High,Single,No,12,1,Better,1,1359
+Female,30,Travel_Rarely,Sales,7,Master,Very High,73,Low,Divorced,No,14,8,Better,3,4779
+Female,31,Travel_Rarely,Research & Development,8,Doctor,Low,93,Medium,Single,No,11,9,Best,3,16422
+Male,34,Travel_Frequently,Research & Development,1,Master,Very High,91,Low,Divorced,No,14,10,Better,4,2996
+Female,31,Travel_Rarely,Research & Development,8,Bachelor,Low,34,Medium,Single,No,12,1,Best,1,1261
+Male,27,Travel_Rarely,Research & Development,11,Highschool,Medium,91,Low,Married,No,14,6,Best,5,2099
+Male,36,Travel_Rarely,Research & Development,4,Master,Low,37,Very High,Single,No,16,10,Good,10,5810
+Female,36,Travel_Rarely,Sales,16,Master,High,98,Low,Married,No,13,11,Good,3,5647
+Male,47,Travel_Rarely,Research & Development,1,Bachelor,Low,74,Very High,Married,No,12,17,Good,6,3420
+Male,25,Travel_Rarely,Sales,9,College,Low,68,Low,Married,No,12,6,Better,3,4400
+Male,37,Non-Travel,Research & Development,5,College,High,84,High,Single,No,14,7,Bad,6,3500
+Female,56,Travel_Rarely,Research & Development,1,College,Low,90,Low,Married,No,22,5,Best,3,2066
+Female,47,Travel_Rarely,Research & Development,2,Master,Low,82,High,Married,No,19,26,Best,20,17169
+Female,24,Travel_Rarely,Sales,4,Highschool,Very High,42,High,Married,Yes,12,5,Better,5,4162
+Male,32,Travel_Rarely,Sales,7,Doctor,Very High,97,Very High,Married,No,12,7,Good,4,9204
+Female,34,Travel_Rarely,Research & Development,1,Bachelor,Very High,86,Medium,Married,No,17,7,Good,5,3294
+Male,41,Travel_Rarely,Research & Development,5,Doctor,Medium,90,High,Married,Yes,12,7,Good,4,2127
+Male,40,Non-Travel,Research & Development,9,Master,High,81,High,Divorced,No,11,11,Best,8,3975
+Male,31,Travel_Rarely,Sales,8,College,Low,31,Very High,Divorced,No,18,13,Better,13,10793
+Male,46,Travel_Rarely,Sales,9,Bachelor,Low,52,Very High,Divorced,No,11,28,Best,7,10096
+Female,39,Non-Travel,Research & Development,2,Bachelor,Low,54,Low,Single,Yes,23,11,Best,1,3646
+Female,31,Travel_Frequently,Research & Development,1,Doctor,High,100,Medium,Single,No,11,10,Better,10,7446
+Male,45,Travel_Rarely,Research & Development,20,Bachelor,Medium,95,Low,Divorced,Yes,18,24,Better,7,10851
+Female,31,Travel_Rarely,Human Resources,8,College,Very High,96,Medium,Single,No,18,8,Better,3,2109
+Male,31,Travel_Frequently,Research & Development,2,Bachelor,Medium,94,Very High,Married,Yes,13,7,Bad,2,3722
+Male,45,Travel_Rarely,Research & Development,29,Bachelor,Medium,55,Very High,Married,Yes,18,10,Best,3,9380
+Male,48,Travel_Rarely,Sales,7,Bachelor,High,96,Low,Divorced,No,11,15,Better,2,5486
+Female,34,Travel_Rarely,Human Resources,9,Master,Low,52,High,Married,No,15,2,Better,2,2742
+Male,40,Non-Travel,Research & Development,8,Highschool,Very High,55,Medium,Divorced,No,11,16,Better,9,13757
+Male,28,Travel_Rarely,Sales,5,Bachelor,Very High,84,Low,Single,No,18,6,Better,5,8463
+Male,44,Non-Travel,Research & Development,5,Bachelor,High,90,High,Single,No,14,7,Better,5,3162
+Male,53,Travel_Rarely,Research & Development,2,Bachelor,Very High,39,Medium,Single,No,12,35,Good,9,16598
+Male,49,Travel_Rarely,Research & Development,5,Master,Low,96,High,Married,No,14,20,Good,3,6651
+Male,40,Travel_Rarely,Research & Development,2,Bachelor,High,68,High,Divorced,No,14,8,Best,3,2345
+Male,44,Travel_Rarely,Research & Development,20,Bachelor,Very High,49,Medium,Single,No,13,6,Good,5,3420
+Male,33,Travel_Frequently,Sales,7,Bachelor,Very High,54,Low,Married,No,14,5,Better,4,4373
+Male,34,Travel_Rarely,Sales,3,Bachelor,Very High,81,Low,Single,No,18,15,Better,13,4759
+Male,30,Travel_Rarely,Sales,16,Highschool,Very High,96,High,Married,No,15,4,Good,2,5301
+Female,42,Travel_Frequently,Research & Development,9,College,Low,74,Very High,Single,No,13,12,Better,12,3673
+Female,44,Travel_Frequently,Sales,1,Doctor,Low,79,High,Married,No,12,11,Good,1,4768
+Male,30,Non-Travel,Research & Development,7,Bachelor,High,64,High,Divorced,No,13,1,Good,1,1274
+Male,57,Travel_Rarely,Research & Development,1,College,Medium,93,High,Married,No,24,13,Good,12,4900
+Male,49,Travel_Rarely,Research & Development,7,Master,High,35,Medium,Divorced,No,14,29,Better,8,10466
+Male,34,Travel_Frequently,Research & Development,15,Bachelor,Medium,71,Low,Divorced,No,14,16,Good,14,17007
+Male,28,Travel_Frequently,Sales,1,Bachelor,Low,92,High,Married,No,15,5,Best,3,2909
+Female,29,Travel_Frequently,Sales,13,Bachelor,Low,51,Medium,Single,No,11,7,Bad,5,5765
+Female,34,Travel_Rarely,Sales,24,Master,Low,40,Medium,Single,Yes,23,16,Best,15,4599
+Male,35,Travel_Rarely,Sales,7,Highschool,Very High,76,High,Married,No,13,1,Better,1,2404
+Male,24,Travel_Frequently,Research & Development,9,Bachelor,Medium,89,Low,Single,Yes,11,4,Good,0,3172
+Female,24,Non-Travel,Sales,13,College,Very High,78,Medium,Married,No,13,1,Better,1,2033
+Male,44,Travel_Frequently,Research & Development,2,Highschool,Medium,86,High,Single,Yes,18,16,Good,2,10209
+Male,29,Travel_Rarely,Sales,19,Bachelor,High,77,High,Divorced,No,14,10,Better,10,8620
+Male,30,Travel_Rarely,Human Resources,1,Bachelor,High,46,High,Divorced,No,21,6,Best,5,2064
+Male,55,Travel_Rarely,Research & Development,4,Master,Very High,30,High,Married,Yes,16,4,Better,3,4035
+Female,33,Travel_Rarely,Research & Development,4,Master,Low,82,Medium,Married,No,11,8,Better,5,3838
+Female,47,Travel_Rarely,Sales,14,Bachelor,High,78,High,Married,Yes,17,11,Good,5,4591
+Male,28,Travel_Frequently,Research & Development,2,College,High,38,Low,Single,No,11,8,Good,0,2561
+Male,28,Travel_Rarely,Research & Development,1,Bachelor,Low,72,High,Divorced,No,14,1,Bad,1,1563
+Male,28,Travel_Frequently,Sales,7,Bachelor,High,55,Low,Single,No,14,5,Better,4,4898
+Female,49,Travel_Rarely,Research & Development,3,College,High,43,Low,Married,No,25,10,Better,3,4789
+Female,29,Travel_Frequently,Research & Development,2,Highschool,Very High,97,Medium,Married,No,13,4,Better,3,3180
+Male,28,Travel_Rarely,Research & Development,29,Highschool,High,96,Medium,Married,No,14,8,Good,8,6549
+Male,33,Travel_Rarely,Research & Development,8,Doctor,Very High,69,High,Single,Yes,17,14,Better,0,6388
+Male,32,Travel_Rarely,Research & Development,10,Bachelor,High,64,Very High,Single,No,25,10,Best,5,11244
+Female,54,Travel_Frequently,Research & Development,11,Master,Medium,87,Very High,Divorced,No,20,26,Better,14,16032
+Male,29,Travel_Rarely,Research & Development,1,Master,Low,100,Low,Single,No,13,11,Bad,9,2362
+Male,44,Travel_Rarely,Research & Development,28,Bachelor,Very High,32,Low,Married,No,13,24,Best,20,16328
+Female,39,Travel_Rarely,Research & Development,6,Bachelor,Medium,32,Medium,Single,No,18,9,Better,2,8376
+Female,46,Travel_Rarely,Sales,3,Bachelor,High,51,Medium,Married,No,12,23,Best,13,16606
+Female,35,Travel_Rarely,Research & Development,16,Bachelor,Very High,91,Medium,Single,No,19,11,Bad,11,8606
+Male,23,Travel_Rarely,Research & Development,20,Highschool,Low,97,High,Single,No,14,5,Better,4,2272
+Male,40,Travel_Rarely,Research & Development,9,Master,Very High,86,Low,Single,No,14,15,Bad,5,2018
+Male,34,Travel_Rarely,Sales,1,Bachelor,Very High,64,High,Married,Yes,14,10,Better,10,7083
+Female,31,Travel_Frequently,Research & Development,3,Bachelor,Very High,33,High,Single,No,12,7,Bad,7,4084
+Male,50,Travel_Frequently,Research & Development,22,Doctor,High,88,Very High,Single,Yes,13,32,Better,32,14411
+Male,34,Travel_Rarely,Sales,7,College,Medium,55,High,Married,Yes,25,12,Better,11,2308
+Male,42,Travel_Rarely,Research & Development,2,Bachelor,High,68,Medium,Married,No,14,4,Better,1,4841
+Male,37,Travel_Rarely,Research & Development,13,Bachelor,Low,47,Very High,Married,No,17,10,Better,10,4285
+Female,29,Travel_Rarely,Research & Development,8,Highschool,High,39,Low,Married,No,13,9,Better,7,9715
+Male,33,Travel_Rarely,Research & Development,25,Bachelor,Very High,44,Medium,Single,No,13,5,Better,5,4320
+Male,45,Travel_Rarely,Research & Development,28,Bachelor,Very High,97,Very High,Married,No,20,8,Better,5,2132
+Male,42,Travel_Frequently,Research & Development,2,Bachelor,Very High,40,Very High,Married,Yes,14,24,Bad,20,10124
+Male,40,Travel_Rarely,Sales,9,College,Low,47,Low,Married,No,12,9,Best,8,5473
+Male,33,Travel_Rarely,Research & Development,28,Master,Medium,79,High,Married,Yes,12,15,Better,15,5207
+Male,40,Travel_Rarely,Human Resources,6,College,High,38,Very High,Single,Yes,21,21,Better,21,16437
+Male,24,Travel_Rarely,Research & Development,21,College,High,57,Low,Divorced,No,14,2,Better,1,2296
+Male,40,Non-Travel,Research & Development,8,College,Very High,72,Very High,Divorced,Yes,18,8,Better,2,4069
+Male,45,Travel_Rarely,Research & Development,1,Master,Low,66,Medium,Divorced,No,12,10,Better,10,7441
+Female,35,Travel_Rarely,Sales,28,Master,Medium,98,High,Married,No,23,6,Better,5,2430
+Female,32,Travel_Rarely,Research & Development,5,College,Very High,67,Medium,Married,No,12,12,Better,7,5878
+Male,36,Travel_Rarely,Sales,2,Master,High,70,Very High,Single,Yes,21,7,Good,3,2644
+Female,48,Travel_Rarely,Sales,16,Master,High,96,High,Divorced,No,14,18,Better,8,6439
+Male,29,Travel_Rarely,Research & Development,9,Bachelor,High,91,High,Married,No,18,5,Good,1,2451
+Male,33,Travel_Rarely,Sales,8,Master,Low,46,Low,Married,No,13,8,Bad,2,6392
+Male,30,Travel_Rarely,Sales,1,Bachelor,Medium,64,Low,Married,No,11,10,Better,10,9714
+Male,38,Travel_Frequently,Human Resources,10,Master,High,71,High,Married,No,11,10,Better,6,6077
+Male,35,Travel_Rarely,Research & Development,1,Bachelor,Very High,68,Low,Single,No,19,3,Better,3,2450
+Male,30,Travel_Rarely,Sales,29,Master,High,33,Medium,Married,No,12,9,Better,4,9250
+Female,35,Travel_Rarely,Research & Development,2,Bachelor,Low,69,Low,Divorced,Yes,12,1,Better,1,2074
+Female,53,Travel_Rarely,Research & Development,2,Doctor,High,78,Very High,Married,No,16,34,Better,33,10169
+Male,38,Travel_Rarely,Research & Development,2,Bachelor,High,81,Medium,Married,No,11,7,Better,5,4855
+Male,32,Non-Travel,Research & Development,1,Master,Very High,62,Low,Married,No,14,9,Good,6,4087
+Female,48,Travel_Rarely,Research & Development,15,Master,High,65,Low,Married,No,12,10,Good,8,2367
+Male,34,Travel_Rarely,Research & Development,7,Master,Low,35,Very High,Single,No,13,1,Bad,1,2972
+Male,55,Travel_Rarely,Sales,26,Doctor,High,60,Very High,Married,No,21,36,Better,36,19586
+Male,34,Travel_Rarely,Research & Development,1,Master,Medium,45,Very High,Married,No,17,9,Good,2,5484
+Female,26,Travel_Rarely,Research & Development,3,Bachelor,Low,89,Very High,Married,No,21,1,Better,1,2061
+Male,38,Travel_Rarely,Sales,14,Bachelor,High,80,Medium,Married,No,11,10,Better,9,9924
+Female,38,Travel_Rarely,Sales,16,Bachelor,Medium,90,Medium,Single,No,12,8,Best,3,4198
+Female,36,Travel_Rarely,Sales,1,Master,Medium,73,High,Single,No,13,15,Better,1,6815
+Male,29,Travel_Rarely,Research & Development,3,Highschool,Medium,87,Low,Single,Yes,18,10,Better,10,4723
+Female,35,Travel_Rarely,Research & Development,10,Master,Low,51,High,Single,Yes,16,10,Better,5,6142
+Male,39,Travel_Rarely,Sales,6,Bachelor,Very High,38,High,Married,No,11,11,Better,7,8237
+Male,29,Travel_Frequently,Research & Development,2,Highschool,Low,87,Very High,Divorced,No,19,6,Best,6,8853
+Male,50,Travel_Rarely,Sales,9,Bachelor,High,59,High,Married,Yes,16,27,Better,1,19331
+Male,23,Travel_Rarely,Research & Development,10,Bachelor,Very High,45,High,Married,No,16,4,Better,2,2073
+Male,36,Travel_Frequently,Research & Development,6,Master,Low,80,Low,Married,Yes,13,9,Better,3,5562
+Male,42,Travel_Rarely,Research & Development,9,College,Very High,93,Very High,Single,No,22,24,Better,1,19613
+Male,35,Travel_Rarely,Research & Development,28,Bachelor,Medium,46,High,Married,No,17,10,Good,10,3407
+Male,34,Travel_Frequently,Research & Development,10,Master,Very High,92,High,Married,No,14,8,Good,8,5063
+Female,40,Travel_Rarely,Sales,14,College,Very High,84,Low,Married,No,15,5,Better,5,4639
+Male,43,Travel_Rarely,Research & Development,27,Bachelor,Very High,87,Medium,Divorced,No,12,8,Better,6,4876
+Male,35,Travel_Rarely,Research & Development,7,College,High,63,Very High,Married,No,18,1,Good,1,2690
+Male,46,Travel_Rarely,Sales,1,Master,Very High,56,Low,Single,No,15,27,Bad,26,17567
+Male,28,Travel_Rarely,Research & Development,24,Bachelor,High,51,Medium,Married,Yes,17,1,Better,1,2408
+Female,22,Non-Travel,Research & Development,26,College,Medium,85,High,Married,Yes,14,4,Good,4,2814
+Male,50,Travel_Frequently,Research & Development,20,Doctor,Medium,41,High,Married,Yes,15,32,Better,30,11245
+Female,32,Travel_Rarely,Research & Development,5,Master,Medium,35,Very High,Married,No,17,6,Better,3,3312
+Female,44,Travel_Rarely,Research & Development,7,Bachelor,Medium,31,Very High,Divorced,Yes,14,23,Good,22,19049
+Male,30,Travel_Rarely,Research & Development,7,Bachelor,Medium,48,Medium,Married,No,12,6,Good,6,2141
+Female,45,Travel_Rarely,Research & Development,5,Doctor,High,50,Low,Single,Yes,14,10,Better,10,5769
+Male,45,Non-Travel,Sales,26,Bachelor,Low,52,Low,Married,No,15,10,Better,10,4385
+Male,31,Travel_Frequently,Sales,2,Master,Very High,54,Low,Single,No,13,10,Better,5,5332
+Female,36,Travel_Rarely,Research & Development,12,Master,High,76,High,Married,Yes,12,7,Better,3,4663
+Male,34,Travel_Frequently,Research & Development,10,Master,High,42,Very High,Divorced,No,13,9,Better,9,4724
+Female,49,Travel_Rarely,Research & Development,25,Master,High,84,Low,Married,No,14,10,Good,9,3211
+Male,39,Travel_Rarely,Research & Development,10,Doctor,Medium,76,Low,Married,No,13,10,Better,7,5377
+Male,27,Travel_Rarely,Research & Development,19,Bachelor,Very High,67,Low,Divorced,No,11,7,Better,7,4066
+Male,35,Travel_Rarely,Research & Development,18,Doctor,Medium,48,Low,Married,No,11,16,Better,16,5208
+Female,28,Travel_Rarely,Research & Development,27,Bachelor,Medium,39,Low,Divorced,No,21,6,Good,5,4877
+Male,21,Travel_Rarely,Research & Development,5,Highschool,High,97,Very High,Single,No,18,3,Better,2,3117
+Female,18,Travel_Frequently,Sales,3,College,Medium,70,Very High,Single,Yes,12,0,Best,0,1569
+Female,47,Travel_Rarely,Human Resources,26,Master,Very High,98,High,Married,No,11,27,Better,5,19658
+Male,39,Travel_Rarely,Research & Development,3,College,High,76,High,Divorced,No,15,11,Better,10,3069
+Female,40,Travel_Rarely,Research & Development,15,Bachelor,Low,80,High,Married,No,13,18,Better,18,10435
+Female,35,Non-Travel,Research & Development,8,Master,High,52,High,Married,No,12,15,Better,14,4148
+Male,37,Travel_Rarely,Research & Development,19,Bachelor,High,85,High,Married,No,17,9,Good,4,5768
+Female,39,Travel_Frequently,Research & Development,4,Bachelor,Low,81,High,Single,No,13,10,Bad,9,5042
+Female,45,Travel_Rarely,Research & Development,2,College,Very High,59,Very High,Divorced,No,19,10,Better,10,5770
+Female,38,Travel_Rarely,Research & Development,2,College,Very High,54,High,Married,Yes,19,10,Best,5,7756
+Male,35,Travel_Rarely,Sales,10,Bachelor,Very High,55,Low,Married,No,17,15,Better,13,10306
+Female,37,Travel_Rarely,Research & Development,10,Bachelor,Medium,71,Medium,Married,No,11,8,Bad,8,3936
+Female,40,Travel_Rarely,Research & Development,16,Bachelor,High,84,Very High,Single,Yes,15,18,Good,4,7945
+Male,44,Travel_Frequently,Human Resources,1,Doctor,Low,37,Very High,Married,Yes,11,14,Better,10,5743
+Male,48,Travel_Frequently,Research & Development,4,Doctor,High,89,Very High,Married,No,25,23,Better,2,15202
+Male,35,Travel_Rarely,Sales,15,College,Low,59,Very High,Divorced,Yes,14,7,Good,2,5440
+Female,24,Travel_Frequently,Research & Development,2,Highschool,Low,32,Very High,Single,Yes,13,6,Better,6,3760
+Female,27,Travel_Rarely,Research & Development,8,Bachelor,Medium,86,High,Married,No,17,5,Better,3,3517
+Male,27,Travel_Frequently,Research & Development,2,Bachelor,Very High,87,Very High,Single,No,13,6,Good,4,2580
+Male,40,Travel_Rarely,Research & Development,7,Bachelor,Low,73,Low,Single,Yes,14,10,Bad,4,2166
+Male,29,Travel_Rarely,Sales,10,Bachelor,High,42,High,Single,No,11,8,Better,5,5869
+Female,36,Travel_Rarely,Research & Development,5,Master,Medium,42,Low,Married,No,12,9,Better,3,8008
+Male,25,Travel_Frequently,Research & Development,2,Highschool,Very High,77,High,Divorced,No,17,7,Better,7,5206
+Male,39,Travel_Rarely,Research & Development,12,Bachelor,Very High,66,Medium,Married,No,21,7,Better,5,5295
+Female,49,Travel_Rarely,Research & Development,22,Master,Low,72,Medium,Married,No,16,27,Better,4,16413
+Female,50,Travel_Rarely,Research & Development,17,Doctor,Very High,50,Low,Divorced,No,15,19,Better,14,13269
+Female,20,Travel_Rarely,Sales,2,Bachelor,High,31,High,Single,No,19,2,Better,2,2783
+Female,34,Travel_Rarely,Research & Development,3,Bachelor,Very High,66,Medium,Divorced,No,12,11,Better,11,5433
+Male,36,Travel_Rarely,Research & Development,7,Bachelor,Low,77,Medium,Single,No,11,15,Better,4,2013
+Female,49,Travel_Rarely,Research & Development,6,Highschool,High,41,High,Married,Yes,19,30,Better,15,13966
+Female,36,Non-Travel,Research & Development,1,Master,Very High,33,High,Married,No,15,4,Better,3,4374
+Male,36,Travel_Rarely,Research & Development,3,College,Very High,79,Low,Divorced,No,20,13,Better,5,6842
+Female,54,Travel_Rarely,Research & Development,22,Doctor,Medium,91,High,Married,No,25,36,Better,10,17426
+Male,43,Travel_Rarely,Research & Development,15,College,High,65,High,Married,No,24,14,Better,14,17603
+Male,35,Travel_Frequently,Sales,12,Master,Very High,36,Very High,Single,Yes,24,13,Best,11,4581
+Male,38,Travel_Frequently,Research & Development,1,Bachelor,Very High,90,Very High,Married,No,15,19,Best,13,4735
+Male,29,Travel_Rarely,Sales,5,Bachelor,Low,43,Medium,Divorced,Yes,13,10,Good,10,4187
+Male,33,Travel_Rarely,Sales,2,Master,Very High,93,Very High,Divorced,No,14,6,Better,6,5505
+Male,32,Travel_Rarely,Research & Development,2,Bachelor,Very High,45,Medium,Divorced,No,13,10,Good,9,5470
+Female,31,Travel_Rarely,Sales,5,Master,Low,67,Very High,Married,No,11,10,Better,10,5476
+Female,49,Travel_Rarely,Research & Development,16,Bachelor,Very High,74,Low,Divorced,Yes,16,17,Good,2,2587
+Female,38,Travel_Frequently,Research & Development,2,Bachelor,Very High,42,Medium,Single,No,22,4,Better,4,2440
+Female,47,Travel_Rarely,Sales,2,Master,Medium,47,Medium,Divorced,No,14,29,Better,3,15972
+Male,49,Travel_Rarely,Research & Development,1,Bachelor,High,36,High,Single,No,14,23,Better,8,15379
+Male,41,Travel_Rarely,Sales,23,College,Very High,80,High,Single,Yes,16,21,Better,2,7082
+Male,20,Travel_Rarely,Sales,9,Highschool,Very High,54,Low,Single,No,11,2,Better,2,2728
+Female,33,Non-Travel,Sales,16,Bachelor,High,36,Very High,Divorced,Yes,25,7,Better,6,5368
+Male,36,Travel_Rarely,Research & Development,26,Master,Low,80,High,Married,No,14,10,Good,3,5347
+Female,44,Travel_Rarely,Human Resources,1,Bachelor,High,44,Very High,Divorced,Yes,18,8,Better,2,3195
+Male,23,Travel_Rarely,Research & Development,8,Highschool,Very High,93,High,Single,Yes,11,5,Better,5,3989
+Female,38,Travel_Rarely,Research & Development,4,College,Very High,87,High,Married,No,19,7,Good,0,3306
+Male,53,Travel_Rarely,Research & Development,24,Master,Medium,48,Very High,Married,No,15,11,Better,4,7005
+Female,48,Travel_Frequently,Sales,7,College,Very High,95,High,Married,Yes,11,19,Better,9,2655
+Male,32,Travel_Rarely,Research & Development,2,Master,Very High,95,Medium,Single,No,12,1,Better,1,1393
+Male,26,Non-Travel,Research & Development,7,Bachelor,Very High,76,Very High,Single,No,20,7,Better,7,2570
+Male,55,Travel_Rarely,Research & Development,22,Bachelor,Low,94,Medium,Divorced,No,12,8,Better,4,3537
+Male,34,Travel_Rarely,Research & Development,5,College,Medium,57,Very High,Married,No,14,15,Best,15,3986
+Male,60,Travel_Rarely,Research & Development,1,Master,High,92,Very High,Divorced,No,20,19,Best,1,10883
+Male,33,Travel_Rarely,Research & Development,21,Bachelor,Medium,79,Medium,Married,No,18,14,Better,14,2028
+Male,37,Travel_Frequently,Sales,1,Master,High,31,Very High,Divorced,No,14,6,Good,6,9525
+Female,34,Travel_Rarely,Research & Development,19,Bachelor,Medium,35,Very High,Married,No,12,10,Better,10,2929
+Male,23,Travel_Rarely,Sales,7,Bachelor,High,99,Very High,Divorced,Yes,21,3,Better,3,2275
+Female,44,Travel_Rarely,Research & Development,2,Bachelor,High,96,Very High,Married,Yes,19,9,Better,8,7879
+Male,35,Travel_Frequently,Research & Development,2,Master,Low,79,Very High,Single,Yes,14,6,Best,5,4930
+Male,43,Travel_Rarely,Sales,2,Bachelor,Very High,73,Very High,Married,Yes,17,10,Better,10,7847
+Male,24,Travel_Rarely,Research & Development,9,Bachelor,High,62,High,Married,No,16,5,Better,5,4401
+Male,41,Travel_Rarely,Sales,6,Bachelor,Very High,35,High,Single,No,12,10,Better,10,9241
+Female,29,Travel_Rarely,Research & Development,9,Master,Very High,43,High,Married,No,17,9,Better,5,2974
+Female,36,Travel_Rarely,Sales,2,Master,High,51,Very High,Single,No,15,17,Good,13,4502
+Male,45,Non-Travel,Research & Development,1,Highschool,High,74,High,Married,No,23,25,Good,23,10748
+Male,24,Travel_Rarely,Human Resources,22,Highschool,Very High,58,High,Married,No,11,1,Better,1,1555
+Male,47,Travel_Frequently,Sales,9,Bachelor,High,82,High,Married,No,11,25,Bad,23,12936
+Male,26,Travel_Rarely,Research & Development,17,Master,Very High,62,High,Married,No,15,3,Best,3,2305
+Female,45,Travel_Rarely,Research & Development,28,College,Very High,48,Medium,Single,No,11,21,Better,21,16704
+Male,32,Travel_Frequently,Research & Development,10,Bachelor,Low,56,High,Married,No,13,10,Good,5,3433
+Male,31,Travel_Rarely,Research & Development,2,Master,Medium,69,High,Married,No,14,6,Best,5,3477
+Male,41,Non-Travel,Human Resources,4,Bachelor,High,60,Medium,Married,No,19,10,Better,3,6430
+Female,40,Travel_Rarely,Research & Development,8,College,Medium,92,Low,Married,Yes,16,18,Better,1,6516
+Male,24,Travel_Rarely,Research & Development,29,Highschool,Medium,91,Low,Divorced,No,13,6,Best,6,3907
+Male,46,Travel_Rarely,Research & Development,13,Master,High,34,Medium,Single,No,14,19,Better,10,5562
+Male,35,Travel_Rarely,Research & Development,27,Master,Very High,49,High,Married,No,16,17,Better,7,6883
+Male,30,Travel_Rarely,Research & Development,16,Highschool,Medium,33,Very High,Married,No,12,10,Good,10,2862
+Male,47,Non-Travel,Sales,2,Master,High,87,Medium,Married,No,11,4,Bad,1,4978
+Male,46,Travel_Rarely,Sales,2,Bachelor,High,74,Very High,Divorced,Yes,12,13,Good,10,10368
+Male,36,Travel_Rarely,Sales,13,Doctor,Medium,96,Low,Divorced,Yes,13,16,Better,2,6134
+Male,32,Travel_Rarely,Sales,1,College,Low,34,Medium,Single,No,15,10,Better,0,6735
+Female,23,Travel_Rarely,Research & Development,4,Highschool,High,51,Medium,Single,No,13,3,Bad,3,3295
+Female,31,Travel_Frequently,Research & Development,24,Highschool,Very High,30,Very High,Single,No,20,9,Good,5,5238
+Male,39,Non-Travel,Research & Development,1,Bachelor,Very High,77,Very High,Married,Yes,15,9,Better,9,6472
+Male,32,Travel_Rarely,Sales,19,Bachelor,Very High,80,High,Married,No,13,10,Bad,4,9610
+Male,40,Travel_Rarely,Sales,7,Master,Medium,88,Medium,Single,No,14,21,Good,21,19833
+Female,45,Travel_Rarely,Human Resources,4,Bachelor,High,56,High,Married,No,21,9,Best,5,9756
+Female,30,Travel_Frequently,Research & Development,2,Master,Very High,78,Low,Single,No,16,10,Better,9,4968
+Male,24,Travel_Frequently,Human Resources,10,Bachelor,Low,59,Very High,Married,No,14,3,Better,2,2145
+Female,30,Travel_Frequently,Human Resources,8,Bachelor,High,66,Very High,Divorced,No,11,6,Good,4,2180
+Male,31,Travel_Rarely,Sales,5,Bachelor,Low,51,High,Married,No,19,6,Better,5,8346
+Female,27,Travel_Rarely,Research & Development,8,Bachelor,High,67,Very High,Single,No,11,6,Good,6,3445
+Female,29,Travel_Rarely,Sales,9,Bachelor,Medium,52,Medium,Single,No,13,2,Better,2,2760
+Male,29,Travel_Frequently,Research & Development,1,Bachelor,Very High,70,High,Single,Yes,12,10,Best,3,6294
+Male,30,Travel_Rarely,Sales,15,College,High,94,Low,Divorced,No,11,12,Better,7,7140
+Male,34,Travel_Rarely,Research & Development,2,Master,Very High,97,Very High,Married,Yes,14,6,Better,5,2932
+Female,33,Non-Travel,Sales,2,Bachelor,Very High,62,Medium,Single,No,15,13,Good,11,5147
+Female,49,Travel_Rarely,Sales,11,Master,Very High,80,Very High,Single,No,12,8,Best,5,4507
+Female,33,Travel_Rarely,Sales,16,Bachelor,Low,74,Low,Single,Yes,20,11,Good,0,8564
+Female,38,Travel_Frequently,Research & Development,2,College,High,75,Medium,Married,No,14,9,Good,6,2468
+Male,31,Travel_Rarely,Sales,16,Master,Low,70,High,Married,No,13,10,Better,1,8161
+Female,29,Travel_Rarely,Research & Development,4,Bachelor,Very High,91,Low,Divorced,No,13,1,Better,1,2109
+Male,30,Travel_Rarely,Research & Development,16,Bachelor,High,58,High,Married,No,16,10,Better,7,5294
+Male,32,Non-Travel,Research & Development,5,Master,Medium,65,Medium,Single,No,14,12,Better,7,2718
+Male,38,Travel_Rarely,Research & Development,18,Bachelor,Medium,60,Very High,Married,Yes,16,15,Better,1,5811
+Male,43,Travel_Frequently,Research & Development,17,Bachelor,High,38,High,Married,Yes,16,6,Better,1,2437
+Male,42,Travel_Rarely,Research & Development,12,Bachelor,Medium,57,Medium,Divorced,No,22,7,Good,5,2766
+Male,55,Travel_Rarely,Research & Development,2,Bachelor,High,60,Low,Married,No,12,34,Better,1,19038
+Male,33,Non-Travel,Research & Development,4,Bachelor,Very High,90,Medium,Divorced,No,15,11,Good,9,3055
+Male,41,Travel_Rarely,Research & Development,9,Master,High,94,Low,Divorced,No,20,5,Better,5,2289
+Male,34,Non-Travel,Sales,10,Bachelor,Very High,87,High,Divorced,Yes,14,15,Better,15,4001
+Female,53,Non-Travel,Research & Development,1,Master,Low,60,High,Married,Yes,20,27,Good,3,12965
+Male,43,Travel_Rarely,Human Resources,2,Bachelor,Medium,97,Very High,Single,No,13,10,Better,9,3539
+Female,34,Travel_Rarely,Sales,3,College,Very High,32,Very High,Single,No,12,6,Better,2,6029
+Male,21,Travel_Rarely,Sales,7,Highschool,Medium,31,Medium,Single,No,13,1,Better,1,2679
+Female,38,Travel_Rarely,Research & Development,6,College,Very High,40,High,Married,No,11,5,Better,5,3702
+Female,22,Travel_Rarely,Research & Development,8,Highschool,High,79,Low,Married,Yes,17,1,Better,1,2398
+Female,31,Travel_Rarely,Sales,29,Master,Low,91,Very High,Married,No,14,13,Better,12,5468
+Female,51,Travel_Rarely,Research & Development,3,Bachelor,Low,53,High,Married,No,11,15,Better,2,13116
+Male,37,Travel_Rarely,Sales,9,College,Medium,46,Medium,Married,No,14,5,Better,5,4189
+Male,46,Travel_Rarely,Research & Development,2,Master,High,46,Very High,Divorced,Yes,17,24,Better,2,19328
+Male,36,Travel_Rarely,Research & Development,10,Bachelor,Very High,90,Low,Married,Yes,13,15,Better,12,8321
+Male,44,Travel_Frequently,Research & Development,1,College,High,99,Medium,Divorced,Yes,12,6,Good,5,2342
+Male,37,Travel_Rarely,Human Resources,8,College,High,89,Medium,Divorced,No,13,19,Good,10,4071
+Male,35,Travel_Rarely,Sales,27,Bachelor,High,84,Very High,Single,Yes,18,10,Better,10,5813
+Male,33,Travel_Rarely,Research & Development,8,Master,Very High,90,Low,Married,No,19,14,Better,10,3143
+Male,28,Travel_Rarely,Research & Development,1,Bachelor,High,82,Very High,Married,No,11,5,Best,5,2044
+Male,39,Travel_Rarely,Research & Development,10,Highschool,High,65,High,Single,No,21,9,Better,4,13464
+Male,46,Non-Travel,Sales,26,College,Medium,98,Medium,Single,No,15,6,Better,2,7991
+Female,40,Travel_Rarely,Research & Development,2,College,High,99,Low,Married,No,17,7,Good,4,3377
+Male,42,Travel_Rarely,Research & Development,13,Bachelor,Medium,95,Low,Married,No,18,10,Good,0,5538
+Male,35,Non-Travel,Research & Development,2,College,Medium,90,Very High,Divorced,No,14,15,Better,7,5762
+Male,38,Non-Travel,Human Resources,2,Bachelor,Low,100,Medium,Divorced,No,13,13,Better,11,2592
+Male,34,Travel_Frequently,Research & Development,9,Master,Very High,93,Low,Married,No,17,11,Good,7,5346
+Male,37,Travel_Rarely,Research & Development,10,Master,Very High,58,Low,Single,No,15,10,Bad,10,4213
+Male,39,Travel_Frequently,Sales,20,Bachelor,High,83,Very High,Divorced,No,18,7,Better,2,4127
+Male,43,Non-Travel,Research & Development,9,Bachelor,Low,52,High,Single,No,13,7,Good,3,2438
+Male,41,Travel_Rarely,Research & Development,5,Bachelor,Medium,85,Medium,Single,No,12,11,Bad,3,6870
+Female,41,Travel_Rarely,Sales,4,Highschool,High,81,High,Divorced,Yes,13,23,Best,22,10447
+Female,30,Travel_Rarely,Research & Development,10,Bachelor,Low,64,High,Single,No,14,9,Better,7,9667
+Female,26,Travel_Rarely,Human Resources,20,College,Very High,69,Medium,Married,Yes,11,6,Better,5,2148
+Female,46,Travel_Rarely,Research & Development,21,College,Very High,66,Medium,Married,No,22,13,Best,9,8926
+Female,40,Travel_Rarely,Research & Development,1,Bachelor,High,52,Very High,Divorced,No,17,12,Better,5,6513
+Male,34,Travel_Rarely,Sales,8,College,Medium,92,High,Married,No,21,10,Better,10,6799
+Male,58,Non-Travel,Sales,2,Bachelor,Medium,52,Medium,Divorced,No,22,37,Good,16,16291
+Male,35,Travel_Rarely,Research & Development,23,Master,Medium,91,High,Married,No,16,6,Best,5,2705
+Female,47,Travel_Rarely,Research & Development,4,Bachelor,High,92,Medium,Divorced,Yes,12,28,Better,22,10333
+Female,40,Travel_Rarely,Research & Development,12,Bachelor,Medium,47,Low,Divorced,No,12,15,Better,7,4448
+Female,54,Travel_Rarely,Research & Development,7,Master,Very High,68,Very High,Married,No,15,14,Good,7,6854
+Female,31,Travel_Frequently,Sales,7,Master,Low,68,Low,Married,No,14,9,Better,3,9637
+Female,28,Travel_Rarely,Research & Development,1,Bachelor,High,67,Low,Married,No,25,3,Better,3,3591
+Female,38,Travel_Rarely,Sales,2,Master,Medium,77,Very High,Married,Yes,20,20,Good,4,5405
+Male,26,Travel_Rarely,Sales,10,Bachelor,High,46,Very High,Single,No,13,5,Better,5,4684
+Male,58,Travel_Frequently,Research & Development,15,Master,Low,87,High,Married,Yes,14,23,Better,2,15787
+Female,18,Non-Travel,Research & Development,14,Bachelor,Medium,33,High,Single,No,16,0,Bad,0,1514
+Male,31,Travel_Rarely,Human Resources,18,Doctor,Very High,89,Low,Married,No,17,2,Better,1,2956
+Male,29,Travel_Rarely,Human Resources,13,Bachelor,Low,56,Low,Divorced,Yes,15,4,Better,2,2335
+Female,45,Non-Travel,Sales,2,Master,High,67,High,Married,No,22,10,Best,8,5154
+Female,36,Travel_Rarely,Research & Development,2,Master,Very High,73,Medium,Married,Yes,22,15,Better,1,6962
+Male,43,Travel_Frequently,Sales,2,Master,Low,92,Very High,Married,No,20,7,Better,7,5675
+Female,27,Travel_Frequently,Research & Development,5,College,Very High,53,Very High,Single,Yes,14,6,Good,5,2379
+Male,29,Travel_Frequently,Research & Development,20,Highschool,Very High,40,Very High,Married,No,13,11,Best,11,3812
+Male,32,Travel_Frequently,Sales,10,Master,Very High,79,Very High,Single,No,13,4,Best,0,4648
+Male,42,Non-Travel,Research & Development,10,Master,High,38,High,Married,No,22,10,Good,6,2936
+Female,47,Travel_Rarely,Research & Development,9,Master,Medium,64,High,Single,No,12,7,Better,2,2105
+Male,46,Travel_Rarely,Research & Development,2,College,Very High,82,Very High,Divorced,No,14,12,Good,9,8578
+Male,28,Non-Travel,Human Resources,1,College,High,43,Very High,Divorced,No,15,3,Better,3,2706
+Male,29,Travel_Rarely,Research & Development,29,Highschool,Very High,93,High,Divorced,No,17,11,Better,7,6384
+Male,42,Travel_Rarely,Research & Development,8,Bachelor,Very High,81,High,Single,No,13,8,Better,0,3968
+Male,32,Travel_Rarely,Sales,2,Master,High,82,Medium,Single,Yes,12,7,Good,2,9907
+Female,46,Travel_Rarely,Sales,3,Bachelor,Low,45,Low,Divorced,No,12,25,Better,19,13225
+Female,27,Travel_Rarely,Sales,23,Highschool,Medium,36,High,Married,No,21,9,Better,9,3540
+Male,29,Travel_Rarely,Human Resources,6,Highschool,Very High,87,Medium,Married,No,11,1,Better,1,2804
+Female,43,Travel_Rarely,Research & Development,6,Bachelor,Low,81,High,Married,No,13,21,Better,16,19392
+Male,48,Travel_Rarely,Research & Development,10,Bachelor,Very High,91,Medium,Married,No,12,29,Better,22,19665
+Male,29,Travel_Frequently,Research & Development,24,College,Very High,73,Very High,Single,Yes,24,1,Good,1,2439
+Female,46,Travel_Rarely,Sales,10,Bachelor,High,64,Medium,Married,No,21,14,Better,8,7314
+Female,27,Travel_Frequently,Research & Development,15,Bachelor,Very High,77,Low,Married,No,19,8,Good,7,4774
+Male,39,Travel_Rarely,Research & Development,19,Master,Very High,41,Very High,Divorced,No,14,7,Better,2,3902
+Male,55,Travel_Rarely,Research & Development,2,Master,Medium,98,Very High,Married,No,20,19,Best,5,2662
+Female,28,Travel_Rarely,Sales,3,Bachelor,Medium,78,Medium,Married,No,19,1,Better,1,2856
+Male,30,Travel_Rarely,Sales,9,Bachelor,Medium,89,Very High,Single,No,13,1,Good,1,1081
+Male,22,Travel_Rarely,Research & Development,7,Highschool,Very High,75,Medium,Single,Yes,23,1,Better,1,2472
+Female,36,Travel_Rarely,Sales,10,Master,Medium,63,High,Married,Yes,13,10,Better,10,5673
+Male,31,Travel_Rarely,Research & Development,20,Bachelor,Medium,89,High,Divorced,No,11,10,Better,10,4197
+Male,34,Travel_Rarely,Sales,4,Bachelor,High,64,Very High,Married,Yes,13,9,Better,5,9713
+Male,29,Travel_Rarely,Research & Development,7,Bachelor,Very High,59,Low,Single,No,14,11,Better,3,2062
+Male,37,Travel_Rarely,Research & Development,7,Master,Very High,78,Low,Married,Yes,22,16,Better,5,4284
+Female,35,Travel_Rarely,Research & Development,16,College,Very High,44,Medium,Married,Yes,11,4,Better,3,4788
+Female,45,Travel_Rarely,Research & Development,25,College,Medium,93,Very High,Married,No,13,10,Good,9,5906
+Male,36,Travel_Frequently,Human Resources,2,Highschool,Medium,94,Very High,Single,No,21,10,Good,10,3886
+Male,40,Travel_Rarely,Research & Development,1,Master,Low,98,Low,Divorced,No,11,22,Better,19,16823
+Female,26,Travel_Rarely,Research & Development,1,College,Medium,90,High,Married,Yes,13,1,Good,1,2933
+Female,27,Travel_Rarely,Sales,2,College,Low,89,High,Single,No,14,9,Good,8,6500
+Female,48,Travel_Frequently,Research & Development,22,Bachelor,Very High,58,Very High,Divorced,No,11,24,Better,22,17174
+Male,44,Travel_Rarely,Research & Development,1,Master,Medium,78,Low,Married,No,15,10,Better,2,5033
+Male,34,Non-Travel,Research & Development,16,Master,Very High,85,Low,Married,Yes,23,5,Better,5,2307
+Male,56,Travel_Rarely,Research & Development,24,College,Low,97,Very High,Single,No,16,5,Better,4,2587
+Male,36,Travel_Rarely,Sales,17,College,High,33,Medium,Married,No,16,12,Bad,4,5507
+Female,41,Travel_Rarely,Sales,8,Bachelor,High,54,Medium,Married,No,21,14,Better,5,4393
+Male,42,Travel_Rarely,Research & Development,6,Bachelor,High,83,Low,Married,No,13,18,Best,13,13348
+Female,31,Travel_Rarely,Sales,10,College,High,86,Very High,Divorced,Yes,11,8,Better,5,6583
+Female,34,Travel_Rarely,Sales,3,Highschool,Very High,75,Very High,Married,Yes,12,9,Good,4,8103
+Female,31,Travel_Rarely,Research & Development,4,Bachelor,Low,62,High,Divorced,No,12,4,Good,2,3978
+Male,26,Travel_Frequently,Research & Development,6,Bachelor,High,61,Very High,Married,No,18,8,Better,7,2544
+Male,45,Travel_Frequently,Research & Development,1,Master,Medium,44,High,Single,No,12,12,Better,4,5399
+Male,33,Travel_Rarely,Sales,10,Master,Medium,43,High,Single,No,14,10,Good,10,5487
+Male,28,Travel_Frequently,Sales,1,College,High,42,Very High,Married,Yes,12,7,Better,7,6834
+Male,29,Travel_Frequently,Sales,24,Bachelor,High,45,Low,Single,No,17,1,Better,1,1091
+Female,39,Non-Travel,Sales,21,Master,Low,32,High,Married,No,19,10,Better,3,5736
+Male,27,Travel_Rarely,Research & Development,2,Master,Medium,41,Medium,Married,No,11,6,Good,5,2226
+Male,34,Travel_Frequently,Research & Development,22,Master,High,86,Very High,Married,Yes,15,16,Better,15,5747
+Female,28,Travel_Rarely,Sales,13,College,Very High,84,High,Single,Yes,11,6,Better,2,9854
+Male,47,Non-Travel,Research & Development,14,Master,High,64,Medium,Married,No,18,16,Best,8,5467
+Female,56,Travel_Rarely,Sales,11,Doctor,Very High,89,Low,Married,No,16,6,Better,0,5380
+Male,39,Travel_Rarely,Research & Development,9,College,Low,87,Low,Married,No,25,10,Better,10,5151
+Female,38,Travel_Frequently,Research & Development,8,Bachelor,Very High,58,Medium,Divorced,Yes,16,20,Better,20,2133
+Female,58,Travel_Rarely,Sales,21,Bachelor,Very High,72,Very High,Married,Yes,13,29,Good,1,17875
+Female,32,Travel_Frequently,Research & Development,5,College,Low,47,High,Single,Yes,14,8,Better,4,2432
+Male,38,Travel_Rarely,Research & Development,9,College,Medium,71,Very High,Divorced,No,19,10,Best,5,4771
+Male,49,Travel_Frequently,Research & Development,2,Highschool,Medium,42,Very High,Married,No,15,28,Better,5,19161
+Male,42,Travel_Rarely,Sales,12,Master,Medium,77,Very High,Divorced,Yes,12,14,Better,0,5087
+Female,27,Travel_Frequently,Human Resources,22,Bachelor,Low,58,Medium,Married,No,12,1,Better,1,2863
+Male,35,Travel_Rarely,Sales,18,Master,Medium,71,Low,Married,No,16,6,Bad,5,5561
+Male,28,Non-Travel,Research & Development,16,Bachelor,High,49,High,Single,No,14,5,Good,5,2144
+Male,31,Non-Travel,Research & Development,3,College,High,48,Low,Divorced,Yes,13,4,Best,4,3065
+Male,36,Non-Travel,Research & Development,9,Master,Low,66,Medium,Married,No,22,5,Better,5,2810
+Male,34,Travel_Rarely,Sales,1,Bachelor,Low,32,Very High,Single,No,21,14,Good,14,9888
+Male,34,Travel_Rarely,Sales,13,Master,Very High,39,High,Divorced,No,18,9,Good,8,8628
+Male,26,Travel_Rarely,Research & Development,1,Bachelor,High,95,Low,Single,No,13,8,Good,7,2867
+Male,29,Travel_Rarely,Research & Development,1,Bachelor,Low,89,Low,Married,No,12,6,Good,5,5373
+Female,32,Non-Travel,Research & Development,15,Master,High,34,Very High,Divorced,No,18,9,Better,5,6667
+Male,31,Travel_Frequently,Research & Development,1,Bachelor,Very High,48,Low,Married,No,21,10,Better,10,5003
+Male,28,Travel_Rarely,Research & Development,17,Bachelor,High,32,Very High,Divorced,No,12,6,Good,4,2367
+Male,38,Travel_Rarely,Sales,1,Bachelor,Low,59,Low,Single,No,14,20,Good,1,2858
+Female,35,Travel_Rarely,Sales,7,Master,High,55,Very High,Married,Yes,11,10,Better,10,5204
+Male,27,Travel_Rarely,Sales,9,Bachelor,Very High,44,Very High,Single,No,14,7,Better,7,4105
+Male,32,Travel_Rarely,Research & Development,5,Master,Very High,56,Very High,Single,No,24,8,Better,1,9679
+Male,31,Travel_Frequently,Sales,26,Master,Low,63,Very High,Married,Yes,11,10,Better,10,5617
+Male,53,Travel_Rarely,Sales,24,Master,Low,66,Low,Single,Yes,13,15,Good,2,10448
+Female,54,Travel_Rarely,Research & Development,9,College,Low,67,High,Married,No,11,9,Good,4,2897
+Male,33,Travel_Frequently,Research & Development,7,College,Very High,36,High,Divorced,No,20,9,Better,9,5968
+Male,43,Travel_Rarely,Research & Development,11,Bachelor,Low,30,High,Married,No,17,10,Better,10,7510
+Male,38,Travel_Frequently,Human Resources,1,Master,Very High,88,Medium,Married,Yes,11,7,Better,6,2991
+Male,55,Travel_Rarely,Human Resources,26,Master,High,71,Medium,Married,Yes,18,35,Better,10,19636
+Female,31,Travel_Rarely,Research & Development,2,Highschool,Very High,59,Very High,Divorced,Yes,11,1,Better,1,1129
+Male,39,Travel_Rarely,Sales,15,Master,Medium,77,Low,Single,No,12,21,Better,20,13341
+Male,42,Non-Travel,Research & Development,23,College,Very High,37,High,Single,No,12,20,Better,20,4332
+Female,31,Non-Travel,Research & Development,10,Bachelor,High,40,High,Married,No,20,13,Best,11,11031
+Female,54,Travel_Rarely,Research & Development,10,Bachelor,High,77,Low,Single,Yes,19,9,Better,5,4440
+Male,24,Travel_Rarely,Research & Development,1,College,Medium,45,High,Single,No,12,4,Good,4,4617
+Male,23,Travel_Rarely,Research & Development,12,College,Very High,78,Very High,Single,No,13,5,Best,5,2647
+Female,40,Travel_Frequently,Research & Development,11,Bachelor,Very High,73,High,Married,No,11,10,Best,10,6323
+Female,40,Travel_Rarely,Sales,2,College,Medium,92,Medium,Married,No,14,15,Better,11,5677
+Female,25,Travel_Rarely,Human Resources,2,Bachelor,High,82,Medium,Married,No,14,6,Better,2,2187
+Male,30,Travel_Rarely,Research & Development,1,College,Very High,76,Medium,Married,No,13,12,Good,12,3748
+Male,25,Travel_Rarely,Research & Development,2,Highschool,Very High,57,High,Divorced,Yes,19,7,Good,2,3977
+Male,47,Travel_Rarely,Research & Development,25,Bachelor,Low,84,High,Single,No,23,25,Better,17,8633
+Male,33,Non-Travel,Research & Development,1,College,Medium,59,High,Divorced,No,12,1,Good,1,2008
+Male,38,Travel_Rarely,Sales,1,Master,Very High,86,Medium,Married,No,15,16,Better,15,4440
+Male,31,Travel_Rarely,Sales,2,College,Low,54,High,Married,No,19,3,Better,2,3067
+Male,38,Travel_Frequently,Research & Development,6,Master,Low,72,High,Married,No,11,10,Better,8,5321
+Male,42,Travel_Rarely,Research & Development,18,Master,Very High,35,Low,Divorced,Yes,17,9,Good,4,5410
+Male,41,Travel_Rarely,Research & Development,1,Bachelor,Very High,76,Very High,Married,No,22,12,Better,5,2782
+Female,47,Non-Travel,Research & Development,1,Highschool,High,98,Medium,Married,No,18,14,Bad,13,11957
+Male,35,Travel_Rarely,Research & Development,11,Master,Very High,43,High,Married,Yes,11,5,Better,2,2660
+Male,22,Travel_Rarely,Research & Development,1,College,Very High,63,High,Single,No,12,4,Best,3,3375
+Male,35,Travel_Rarely,Research & Development,9,Master,Medium,48,High,Single,No,19,10,Better,10,5098
+Female,33,Travel_Rarely,Research & Development,15,College,Medium,95,Very High,Married,Yes,13,10,Better,9,4878
+Female,32,Travel_Rarely,Research & Development,29,Master,High,49,Medium,Single,No,13,6,Better,6,2837
+Male,40,Travel_Rarely,Research & Development,1,Master,Low,83,Very High,Married,No,19,8,Good,1,2406
+Male,32,Travel_Rarely,Sales,1,Master,Medium,68,Medium,Married,No,14,3,Better,2,2269
+Male,39,Travel_Rarely,Research & Development,24,Highschool,Low,52,Very High,Single,No,13,18,Better,7,4108
+Female,38,Travel_Rarely,Research & Development,10,Bachelor,Medium,99,High,Married,No,12,20,Better,18,13206
+Female,32,Travel_Rarely,Sales,1,Master,High,48,Very High,Married,No,19,14,Better,14,10422
+Female,37,Travel_Rarely,Research & Development,10,Bachelor,High,42,Very High,Married,Yes,25,16,Better,16,13744
+Female,25,Travel_Rarely,Sales,8,College,Low,85,High,Divorced,Yes,22,6,Good,5,4907
+Male,52,Non-Travel,Sales,29,Master,Low,40,Very High,Divorced,No,15,16,Good,9,3482
+Male,44,Travel_Rarely,Research & Development,1,Bachelor,Medium,42,Very High,Single,Yes,12,6,Better,4,2436
+Male,21,Travel_Rarely,Sales,5,Highschool,High,58,Low,Single,Yes,11,2,Better,2,2380
+Male,39,Non-Travel,Research & Development,9,Bachelor,Very High,87,Very High,Single,No,13,21,Good,6,19431
+Male,23,Travel_Frequently,Sales,9,Bachelor,Very High,33,Low,Married,No,19,1,Good,1,1790
+Female,36,Travel_Rarely,Sales,3,Bachelor,Low,94,Very High,Married,No,19,10,Better,9,7644
+Female,36,Travel_Frequently,Research & Development,4,College,Very High,97,Medium,Divorced,No,13,18,Better,4,5131
+Male,56,Non-Travel,Research & Development,1,Master,High,57,High,Divorced,No,21,13,Good,13,6306
+Male,29,Travel_Rarely,Research & Development,1,Master,Low,36,Very High,Married,Yes,14,4,Best,2,4787
+Male,42,Travel_Rarely,Research & Development,2,Bachelor,Low,56,High,Married,No,11,24,Good,22,18880
+Male,56,Travel_Rarely,Research & Development,7,College,Very High,72,High,Married,No,11,14,Bad,10,2339
+Female,41,Travel_Rarely,Research & Development,28,Master,Low,60,Medium,Married,No,23,21,Better,20,13570
+Female,34,Travel_Rarely,Sales,28,Bachelor,Very High,95,High,Married,No,21,8,Better,8,6712
+Male,36,Non-Travel,Sales,15,Master,Very High,88,Very High,Divorced,No,24,15,Good,15,5406
+Male,41,Travel_Rarely,Sales,3,Bachelor,High,57,Medium,Divorced,No,11,14,Better,5,8938
+Male,32,Travel_Rarely,Research & Development,2,Bachelor,Very High,78,Low,Single,No,14,4,Better,4,2439
+Female,35,Travel_Rarely,Human Resources,26,Master,High,31,Very High,Single,Yes,16,9,Better,9,8837
+Female,38,Travel_Rarely,Sales,10,College,Low,100,Very High,Married,No,11,10,Better,10,5343
+Male,50,Travel_Frequently,Sales,1,Master,Medium,94,High,Divorced,No,12,12,Better,6,6728
+Female,36,Travel_Rarely,Sales,11,Master,Medium,100,Very High,Married,No,13,8,Good,6,6652
+Female,45,Travel_Rarely,Sales,20,Bachelor,Very High,50,High,Single,No,15,8,Better,5,4850
+Male,40,Travel_Rarely,Research & Development,2,Master,High,52,High,Single,No,14,8,Better,2,2809
+Male,35,Travel_Frequently,Research & Development,18,Master,High,80,High,Married,Yes,14,10,Best,10,5689
+Female,40,Travel_Rarely,Research & Development,2,Master,High,98,High,Married,No,14,20,Better,5,2001
+Female,35,Travel_Rarely,Research & Development,1,Master,High,62,Very High,Married,No,12,4,Better,4,2977
+Male,29,Travel_Rarely,Research & Development,13,College,Very High,46,Medium,Married,Yes,13,10,Better,4,4025
+Female,29,Travel_Rarely,Research & Development,28,Master,Very High,73,Low,Single,No,14,5,Bad,5,3785
+Male,50,Travel_Rarely,Sales,28,Bachelor,Very High,39,Low,Divorced,Yes,13,20,Better,3,10854
+Female,39,Travel_Rarely,Sales,24,Highschool,Medium,60,Very High,Married,No,11,21,Good,20,12031
+Male,31,Non-Travel,Research & Development,5,Bachelor,Medium,74,Low,Single,No,19,10,Better,9,9936
+Female,26,Travel_Rarely,Sales,5,Bachelor,Very High,30,High,Single,No,18,5,Better,4,2966
+Male,36,Travel_Frequently,Research & Development,23,College,High,41,Very High,Married,No,17,17,Better,5,2571
+Male,39,Travel_Rarely,Research & Development,6,Highschool,Very High,42,Low,Married,No,15,9,Better,7,9991
+Male,27,Travel_Rarely,Research & Development,4,Bachelor,Medium,87,Medium,Married,Yes,20,6,Better,6,6142
+Male,49,Travel_Frequently,Sales,2,Bachelor,Very High,63,Medium,Married,No,14,17,Good,9,5390
+Male,34,Travel_Rarely,Research & Development,8,Bachelor,Medium,82,High,Married,No,12,6,Best,4,4404
